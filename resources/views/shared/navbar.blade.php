@@ -44,7 +44,7 @@
                                         <li><a href="/">Home</a></li>
                                         <li><a href="/about">About US</a></li>
                                         <li class="dropdown">
-                                            <a href="packages.html">Tour Packages <i class="fas fa-chevron-down"></i></a>
+                                            <a href="#">Tour Packages <i class="fas fa-chevron-down"></i></a>
                                             <ul class="submenu">
                                                 <li><a href="packages.html">Package 1</a></li>
                                                 <li><a href="packages.html">Package 2</a></li>
