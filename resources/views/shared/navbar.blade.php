@@ -46,7 +46,7 @@
                                         <li class="dropdown">
                                             <a href="#">Tour Packages <i class="fas fa-chevron-down"></i></a>
                                             <ul class="submenu">
-                                                <li><a href="packages.html">Package 1</a></li>
+                                                <li><a href="/cultural_tour">Cultural Tour</a></li>
                                                 <li><a href="packages.html">Package 2</a></li>
                                                 <!-- Add more package links as needed -->
                                             </ul>

@@ -6,7 +6,7 @@
     <div class="slider-area ">
         <!-- Mobile Menu -->
         <div class="slider-active">
-            <div class="single-slider hero-overly  slider-height d-flex align-items-center" data-background="assets/img/hero/h1_hero.jpg">
+            <div class="single-slider hero-overly  slider-height d-flex align-items-center" data-background="assets/img/slider-image.webp">
                 <div class="container">
                     <div class="row">
                         <div class="col-xl-9 col-lg-9 col-md-9">
@@ -28,7 +28,7 @@
             <div class="row align-items-center">
                 <div class="col-xl-6 col-lg-6">
                     <div class="support-location-img mb-50">
-                        <img src="assets/img/service/support-img.jpg" alt="">
+                        <img src="assets/img/highland-festival.webp" alt="">
                         <div class="support-img-cap">
                             <span>Since 1992</span>
                         </div>

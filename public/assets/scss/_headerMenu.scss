@@ -51,7 +51,7 @@
                     color:#fff;
                     display: inline-block;
                     margin-right: 25px;
-                    
+
                     font-family: $font_1;
                     font-size: 14px;
                     &:last-child{
@@ -79,7 +79,7 @@
                         }
                     }
                 }
-               
+
             }
         }
     }
@@ -107,7 +107,7 @@
                         padding: 39px 15px;
                     }
                     display: block;
-                    font-size: 16px;
+                    font-size: 100px;
                     @include transition(.3s);
                     text-transform: uppercase;
                 }
@@ -148,13 +148,13 @@
                             // @include transition(.4s);
                         }
                     }
-                } 
+                }
             }
         }
     }
     .logo{
         & img{
-            
+
         }
     }
 }
@@ -181,7 +181,7 @@
     opacity: 1;
     top: 100%;
 }
- 
+
 .top-bg{
 	background:#0e1c35;
 }

@@ -24,3 +24,8 @@ Route::get('/about', function () {
 Route::get('/contact', function () {
     return view('contact');
 });
+
+Route::get('/cultural_tour', function () {
+    return view('packages/cultural_tour');
+});
+
