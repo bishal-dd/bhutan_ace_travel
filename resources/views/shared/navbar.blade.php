@@ -8,9 +8,9 @@
                         <div class="col-lg-8">
                             <div class="header-info-left">
                                 <ul>
-                                    <li>needhelp@gotrip.com</li>
-                                    <li>666 569 025077</li>
-                                    <li>Thimphu, Bhutan</li>
+                                    <li>info@acetravels023.bt</li>
+                                    <li>+975-17830818/17642134</li>
+                                    <li> Changlam Plaza, Thimphu</li>
                                 </ul>
                             </div>
                         </div>
@@ -33,7 +33,7 @@
                         <!-- Logo -->
                         <div class="col-xl-2 col-lg-2 col-md-1">
                             <div class="logo">
-                                <a href="index.html"><img src="assets/img/logo/logo.png" alt=""></a>
+                                <a href="/"><img src="{{asset('assets/img/logo.webp')}}" alt="" width="200" height="50"></a>
                             </div>
                         </div>
                         <div class="col-xl-10 col-lg-10 col-md-10">
@@ -47,7 +47,9 @@
                                             <a href="#">Tour Packages <i class="fas fa-chevron-down"></i></a>
                                             <ul class="submenu">
                                                 <li><a href="/cultural_tour">Cultural Tour</a></li>
-                                                <li><a href="packages.html">Package 2</a></li>
+                                                <li><a href="/trekking">Trekking</a></li>
+                                                <li><a href="/biking">Biking</a></li>
+                                                <li><a href="/cycling">Cycling</a></li>
                                                 <!-- Add more package links as needed -->
                                             </ul>
                                         </li>

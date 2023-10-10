@@ -8,12 +8,12 @@
 
         <div class="row">
             <div class="col-lg-3 offset-sm-0 rounded-circle shadow" style="background-color: #f2f2f2" >
-                <a href="https://maps.app.goo.gl/etH78kSHpyDdeAhy7" target="_blank">
+                <a href="https://maps.app.goo.gl/U36iHJFqNy6voJgM6" target="_blank">
                 <div class="media contact-info p-4 mt-5">
                     <span class="contact-info__icon"><i class="fas fa-location-arrow" style="font-size: 60px; color: #f4493c"></i></span>
                     <div class="media-body">
-                        <h3>Buttonwood, California.</h3>
-                        <p>Rosemead, CA 91770</p>
+                        <h3>Changlam Plaza, Thimphu</h3>
+                        <p>Room No. 102</p>
                     </div>
                 </div>
                 </a>
@@ -23,7 +23,7 @@
                 <div class="media contact-info p-4 mt-5">
                     <span class="contact-info__icon"><i class="fab fa-whatsapp" style="font-size: 60px; color: #4fcb5d"></i></span>
                     <div class="media-body">
-                        <h3>+957 253 565 2365</h3>
+                        <h3>+975-17830818 / 17642134</h3>
                         <p>Mon to Fri 9am to 5pm</p>
                     </div>
                 </div>
@@ -34,7 +34,7 @@
                 <div class="media contact-info p-4 mt-5">
                     <span class="contact-info__icon"><i class="ti-email" style="font-size: 60px; color: #45aef6"></i></span>
                     <div class="media-body">
-                        <h3>info@bhutanacetravel.bt</h3>
+                        <h3>info@acetravels023.bt</h3>
                         <p>Send us your query anytime!</p>
                     </div>
                 </div>

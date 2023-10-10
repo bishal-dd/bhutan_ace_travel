@@ -6,7 +6,7 @@
     <div class="slider-area ">
         <!-- Mobile Menu -->
         <div class="slider-active">
-            <div class="single-slider hero-overly  slider-height d-flex align-items-center" data-background="assets/img/slider-image.webp">
+            <div class="single-slider hero-overly  slider-height d-flex align-items-center" data-background="{{asset('assets/img/slider-image.webp')}}">
                 <div class="container">
                     <div class="row">
                         <div class="col-xl-9 col-lg-9 col-md-9">
@@ -28,7 +28,7 @@
             <div class="row align-items-center">
                 <div class="col-xl-6 col-lg-6">
                     <div class="support-location-img mb-50">
-                        <img src="assets/img/highland-festival.webp" alt="">
+                        <img src="{{asset('assets/img/highland-festival.webp')}}" alt="">
                         <div class="support-img-cap">
                             <span>Since 1992</span>
                         </div>
@@ -39,29 +39,29 @@
                         <!-- Section Tittle -->
                         <div class="section-tittle section-tittle2">
                             <span>About Our Company</span>
-                            <h2>We are Go Trip <br>Ravels Support Company</h2>
+                            <h2>We are Ace Travel <br>Your Travel Partner</h2>
                         </div>
                         <div class="support-caption">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud</p>
+                            <p>Our mission is to make your travel experiences unforgettable and hassle-free.Dedicated to enhancing your travel experiences and ensuring they are both unforgettable and hassle-free. With a passion for exploration and a commitment to customer satisfaction, we have been at the forefront of the travel industry for years.</p>
                             <div class="select-suport-items">
-                                <label class="single-items">Lorem ipsum dolor sit amet
+                                <label class="single-items">Personalized Travel Experiences
                                     <input type="checkbox" checked="checked active">
                                     <span class="checkmark"></span>
                                 </label>
-                                <label class="single-items">Consectetur adipisicing sed do
+                                <label class="single-items">Environmental Responsibility
                                     <input type="checkbox" checked="checked active">
                                     <span class="checkmark"></span>
                                 </label>
-                                <label class="single-items">Eiusmod tempor incididunt
+                                <label class="single-items">Hassle-Free Travel Planning
                                     <input type="checkbox" checked="checked active">
                                     <span class="checkmark"></span>
                                 </label>
-                                <label class="single-items">Ad minim veniam, quis nostrud.
+                                <label class="single-items">Unforgettable Memories
                                     <input type="checkbox" checked="checked active">
                                     <span class="checkmark"></span>
                                 </label>
                             </div>
-                            <a href="#" class="btn border-btn">About us</a>
+                            <a href="/about" class="btn border-btn">About us</a>
                         </div>
                     </div>
                 </div>
