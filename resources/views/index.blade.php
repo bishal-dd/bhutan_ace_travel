@@ -117,161 +117,118 @@
         </div>
     </div>
     <!-- Our Services End -->
-    <!-- Favourite Places Start -->
-    <div class="favourite-place place-padding">
+    <!-- Blog Area Start -->
+    <div class="home-blog-area section-padding2">
         <div class="container">
             <!-- Section Tittle -->
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-tittle text-center">
                         <span>FEATURED TOURS Packages</span>
-                        <h2>Favourite Places</h2>
+                        <h2>Tour Packages</h2>
                     </div>
                 </div>
             </div>
             <div class="row">
-                <div class="col-xl-4 col-lg-4 col-md-6">
-                    <div class="single-place mb-30">
-                        <div class="place-img">
-                            <img src="assets/img/service/services1.jpg" alt="">
+                <div class="col-xl-6 col-lg-6 col-md-6">
+                    <div class="home-blog-single mb-30">
+                        <div class="blog-img-cap">
+                            <div class="blog-img">
+                                <img src="{{asset("assets/img/cultural_tour.webp")}}" alt="">
+                            </div>
+                            <div class="blog-cap">
+                                <p> |   Traveling</p>
+                                <h3><a href="single-blog.html">Tips For Taking A Long-Term Trip With Kids.</a></h3>
+                                <a href="#" class="more-btn">Read more »</a>
+                            </div>
                         </div>
-                        <div class="place-cap">
-                            <div class="place-cap-top">
-                                <span><i class="fas fa-star"></i><span>8.0 Superb</span> </span>
-                                <h3><a href="#">The Dark Forest Adventure</a></h3>
-                                <p class="dolor">$1870 <span>/ Per Person</span></p>
-                            </div>
-                            <div class="place-cap-bottom">
-                                <ul>
-                                    <li><i class="far fa-clock"></i>3 Days</li>
-                                    <li><i class="fas fa-map-marker-alt"></i>Los Angeles</li>
-                                </ul>
-                            </div>
+                        <div class="blog-date text-center">
+                            <span>24</span>
+                            <p>Now</p>
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-4 col-lg-4 col-md-6">
-                    <div class="single-place mb-30">
-                        <div class="place-img">
-                            <img src="assets/img/service/services2.jpg" alt="">
+                <div class="col-xl-6 col-lg-6 col-md-6">
+                    <div class="home-blog-single mb-30">
+                        <div class="blog-img-cap">
+                            <div class="blog-img">
+                                <img src="{{asset("assets/img/trekking_tour.webp")}}" alt="">
+                            </div>
+                            <div class="blog-cap">
+                                <p> |   Traveling</p>
+                                <h3><a href="single-blog.html">Tips For Taking A Long-Term Trip With Kids.</a></h3>
+                                <a href="#" class="more-btn">Read more »</a>
+                            </div>
                         </div>
-                        <div class="place-cap">
-                            <div class="place-cap-top">
-                                <span><i class="fas fa-star"></i><span>8.0 Superb</span> </span>
-                                <h3><a href="#">The Dark Forest Adventure</a></h3>
-                                <p class="dolor">$1870 <span>/ Per Person</span></p>
-                            </div>
-                            <div class="place-cap-bottom">
-                                <ul>
-                                    <li><i class="far fa-clock"></i>3 Days</li>
-                                    <li><i class="fas fa-map-marker-alt"></i>Los Angeles</li>
-                                </ul>
-                            </div>
+                        <div class="blog-date text-center">
+                            <span>24</span>
+                            <p>Now</p>
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-4 col-lg-4 col-md-6">
-                    <div class="single-place mb-30">
-                        <div class="place-img">
-                            <img src="assets/img/service/services3.jpg" alt="">
+                <div class="col-xl-6 col-lg-6 col-md-6 mt-5">
+                    <div class="home-blog-single mb-30">
+                        <div class="blog-img-cap">
+                            <div class="blog-img">
+                                <img src="{{asset("assets/img/biking_tour.webp")}}" alt="">
+                            </div>
+                            <div class="blog-cap">
+                                <p> |   Traveling</p>
+                                <h3><a href="single-blog.html">Tips For Taking A Long-Term Trip With Kids.</a></h3>
+                                <a href="#" class="more-btn">Read more »</a>
+                            </div>
                         </div>
-                        <div class="place-cap">
-                            <div class="place-cap-top">
-                                <span><i class="fas fa-star"></i><span>8.0 Superb</span> </span>
-                                <h3><a href="#">The Dark Forest Adventure</a></h3>
-                                <p class="dolor">$1870 <span>/ Per Person</span></p>
-                            </div>
-                            <div class="place-cap-bottom">
-                                <ul>
-                                    <li><i class="far fa-clock"></i>3 Days</li>
-                                    <li><i class="fas fa-map-marker-alt"></i>Los Angeles</li>
-                                </ul>
-                            </div>
+                        <div class="blog-date text-center">
+                            <span>24</span>
+                            <p>Now</p>
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-4 col-lg-4 col-md-6">
-                    <div class="single-place mb-30">
-                        <div class="place-img">
-                            <img src="assets/img/service/services4.jpg" alt="">
-                        </div>
-                        <div class="place-cap">
-                            <div class="place-cap-top">
-                                <span><i class="fas fa-star"></i><span>8.0 Superb</span> </span>
-                                <h3><a href="#">The Dark Forest Adventure</a></h3>
-                                <p class="dolor">$1870 <span>/ Per Person</span></p>
+                <div class="col-xl-6 col-lg-6 col-md-6 mt-5">
+                    <div class="home-blog-single mb-30">
+                        <div class="blog-img-cap">
+                            <div class="blog-img">
+                                <img src="{{asset("assets/img/cycling_tour.webp")}}" height="350" alt="">
                             </div>
-                            <div class="place-cap-bottom">
-                                <ul>
-                                    <li><i class="far fa-clock"></i>3 Days</li>
-                                    <li><i class="fas fa-map-marker-alt"></i>Los Angeles</li>
-                                </ul>
+                            <div class="blog-cap">
+                                <p> |   Traveling</p>
+                                <h3><a href="single-blog.html">Tips For Taking A Long-Term Trip With Kids.</a></h3>
+                                <a href="#" class="more-btn">Read more »</a>
                             </div>
                         </div>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-4 col-md-6">
-                    <div class="single-place mb-30">
-                        <div class="place-img">
-                            <img src="assets/img/service/services5.jpg" alt="">
-                        </div>
-                        <div class="place-cap">
-                            <div class="place-cap-top">
-                                <span><i class="fas fa-star"></i><span>8.0 Superb</span> </span>
-                                <h3><a href="#">The Dark Forest Adventure</a></h3>
-                                <p class="dolor">$1870 <span>/ Per Person</span></p>
-                            </div>
-                            <div class="place-cap-bottom">
-                                <ul>
-                                    <li><i class="far fa-clock"></i>3 Days</li>
-                                    <li><i class="fas fa-map-marker-alt"></i>Los Angeles</li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-4 col-md-6">
-                    <div class="single-place mb-30">
-                        <div class="place-img">
-                            <img src="assets/img/service/services6.jpg" alt="">
-                        </div>
-                        <div class="place-cap">
-                            <div class="place-cap-top">
-                                <span><i class="fas fa-star"></i><span>8.0 Superb</span> </span>
-                                <h3><a href="#">The Dark Forest Adventure</a></h3>
-                                <p class="dolor">$1870 <span>/ Per Person</span></p>
-                            </div>
-                            <div class="place-cap-bottom">
-                                <ul>
-                                    <li><i class="far fa-clock"></i>3 Days</li>
-                                    <li><i class="fas fa-map-marker-alt"></i>Los Angeles</li>
-                                </ul>
-                            </div>
+                        <div class="blog-date text-center">
+                            <span>24</span>
+                            <p>Now</p>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <!-- Favourite Places End -->
-    <!-- Video Start Arera -->
-    <div class="video-area video-bg pt-200 pb-200 mb-150"  data-background="assets/img/service/video-bg.jpg">
+    <!-- Blog Area End -->
+
+
+
+
+    <!-- Video Start Area -->
+    <div class="video-area video-bg pt-200 pb-200 mb-150" data-background="{{asset("assets/img/video_bg.webp")}}">
         <div class="container">
             <div class="row">
-                <div class="col-xl-12">
-                    <div class="video-caption text-center">
-                        <div class="video-icon">
-                            <a class="popup-video" href="https://www.youtube.com/watch?v=1aP-TXUpNoU" tabindex="0"><i class="fas fa-play"></i></a>
-                        </div>
-                        <p class="pera1">Love where you're going in the perfect time</p>
-                        <p class="pera2">Tripo is a World Leading Online</p>
-                        <p class="pera3"> Tour Booking Platform</p>
-                    </div>
+                <div class="col-xl-9 offset-2 ">
+
+                    <iframe
+                        height="400"
+                        src="https://www.youtube.com/embed/ML34TZBBHRw?autoplay=1"
+                        frameborder="0"
+                        allowfullscreen
+                        class="w-100 rounded-top rounded-bottom"
+                    ></iframe>
                 </div>
             </div>
         </div>
     </div>
-    <!-- Video Start End -->
+    <!-- Video End Area -->
+
 
 </main>
 
