@@ -29,3 +29,6 @@ Route::get('/cultural_tour', function () {
     return view('packages/cultural_tour/cultural_tour');
 });
 
+Route::get('/cultural_3day', function () {
+    return view('packages/cultural_tour/cultural_3day');
+});

@@ -36,12 +36,12 @@
             <div class="col-xl-4 col-lg-4 col-md-6">
                 <div class="single-place mb-30">
                     <div class="place-img">
-                        <img src="{{asset("assets/img/cultural_tour.webp")}}" alt="">
+                        <img src="{{asset("assets/img/cultural_3day.webp")}}" height="250" alt="">
                     </div>
                     <div class="place-cap">
                         <div class="place-cap-top">
                             <span><i class="fas fa-star"></i><span>8.0 Superb</span> </span>
-                            <h3><a href="#">Bhutan Bliss: A 3-Day Himalayan Adventure</a></h3>
+                            <h3><a href="/cultural_3day">Bhutan Bliss: A 3-Day Himalayan Adventure</a></h3>
                             <p class="dolor">$1870 <span>/ Per Person</span></p>
                         </div>
                         <div class="place-cap-bottom">
@@ -56,7 +56,7 @@
             <div class="col-xl-4 col-lg-4 col-md-6">
                 <div class="single-place mb-30">
                     <div class="place-img">
-                        <img src="{{asset("assets/img/trekking_tour.webp")}}" alt="">
+                        <img src="{{asset("assets/img/cultural_5day.webp")}}"  height="250" alt="">
                     </div>
                     <div class="place-cap">
                         <div class="place-cap-top">
@@ -76,7 +76,7 @@
             <div class="col-xl-4 col-lg-4 col-md-6">
                 <div class="single-place mb-30">
                     <div class="place-img">
-                        <img src="{{asset("assets/img/biking_tour.webp")}}" height="250" alt="">
+                        <img src="{{asset("assets/img/cultural_6day.webp")}}" height="250" alt="">
                     </div>
                     <div class="place-cap">
                         <div class="place-cap-top">
@@ -96,7 +96,7 @@
             <div class="col-xl-4 col-lg-4 col-md-6">
                 <div class="single-place mb-30">
                     <div class="place-img">
-                        <img src="{{asset("assets/img/cycling_tour.webp")}}" alt="">
+                        <img src="{{asset("assets/img/cultural_7day.webp")}}"  height="250" alt="">
                     </div>
                     <div class="place-cap">
                         <div class="place-cap-top">
