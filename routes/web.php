@@ -32,3 +32,15 @@ Route::get('/cultural_tour', function () {
 Route::get('/cultural_3day', function () {
     return view('packages/cultural_tour/cultural_3day');
 });
+
+Route::get('/cultural_5day', function () {
+    return view('packages/cultural_tour/cultural_5day');
+});
+
+Route::get('/cultural_6day', function () {
+    return view('packages/cultural_tour/cultural_6day');
+});
+
+Route::get('/cultural_7day', function () {
+    return view('packages/cultural_tour/cultural_7day');
+});

@@ -61,7 +61,7 @@
                     <div class="place-cap">
                         <div class="place-cap-top">
                             <span><i class="fas fa-star"></i><span>8.0 Superb</span> </span>
-                            <h3><a href="#">Bhutan Unveiled: A 5-Day Himalayan Odyssey</a></h3>
+                            <h3><a href="/cultural_5day">Bhutan Unveiled: A 5-Day Himalayan Odyssey</a></h3>
                             <p class="dolor">$1870 <span>/ Per Person</span></p>
                         </div>
                         <div class="place-cap-bottom">
@@ -81,7 +81,7 @@
                     <div class="place-cap">
                         <div class="place-cap-top">
                             <span><i class="fas fa-star"></i><span>8.0 Superb</span> </span>
-                            <h3><a href="#">Bhutan Expedition: A 6-Day Himalayan Journey</a></h3>
+                            <h3><a href="/cultural_6day">Bhutan Expedition: A 6-Day Himalayan Journey</a></h3>
                             <p class="dolor">$1870 <span>/ Per Person</span></p>
                         </div>
                         <div class="place-cap-bottom">
@@ -101,7 +101,7 @@
                     <div class="place-cap">
                         <div class="place-cap-top">
                             <span><i class="fas fa-star"></i><span>8.0 Superb</span> </span>
-                            <h3><a href="#">Bhutan Beyond: A 7-Day Journey Through the Himalayas</a></h3>
+                            <h3><a href="/cultural_7day">Bhutan Beyond: A 7-Day Journey Through the Himalayas</a></h3>
                             <p class="dolor">$1870 <span>/ Per Person</span></p>
                         </div>
                         <div class="place-cap-bottom">
