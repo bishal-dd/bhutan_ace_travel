@@ -28,7 +28,7 @@
             <div class="col-lg-12">
                 <div class="section-tittle text-center">
                     <span>FEATURED TOURS Packages</span>
-                    <h2>Favourite Places</h2>
+                    <h2>Cultural Tours</h2>
                 </div>
             </div>
         </div>
@@ -41,13 +41,13 @@
                     <div class="place-cap">
                         <div class="place-cap-top">
                             <span><i class="fas fa-star"></i><span>8.0 Superb</span> </span>
-                            <h3><a href="#">Cultural Tour</a></h3>
+                            <h3><a href="#">Bhutan Bliss: A 3-Day Himalayan Adventure</a></h3>
                             <p class="dolor">$1870 <span>/ Per Person</span></p>
                         </div>
                         <div class="place-cap-bottom">
                             <ul>
                                 <li><i class="far fa-clock"></i>3 Days</li>
-                                <li><i class="fas fa-map-marker-alt"></i>Los Angeles</li>
+                                <li><i class="fas fa-map-marker-alt"></i>Bhutan</li>
                             </ul>
                         </div>
                     </div>
@@ -61,13 +61,13 @@
                     <div class="place-cap">
                         <div class="place-cap-top">
                             <span><i class="fas fa-star"></i><span>8.0 Superb</span> </span>
-                            <h3><a href="#">Trekking Tour</a></h3>
+                            <h3><a href="#">Bhutan Unveiled: A 5-Day Himalayan Odyssey</a></h3>
                             <p class="dolor">$1870 <span>/ Per Person</span></p>
                         </div>
                         <div class="place-cap-bottom">
                             <ul>
-                                <li><i class="far fa-clock"></i>3 Days</li>
-                                <li><i class="fas fa-map-marker-alt"></i>Los Angeles</li>
+                                <li><i class="far fa-clock"></i>5 Days</li>
+                                <li><i class="fas fa-map-marker-alt"></i>Bhutan</li>
                             </ul>
                         </div>
                     </div>
@@ -81,13 +81,13 @@
                     <div class="place-cap">
                         <div class="place-cap-top">
                             <span><i class="fas fa-star"></i><span>8.0 Superb</span> </span>
-                            <h3><a href="#">Biking Tour</a></h3>
+                            <h3><a href="#">Bhutan Expedition: A 6-Day Himalayan Journey</a></h3>
                             <p class="dolor">$1870 <span>/ Per Person</span></p>
                         </div>
                         <div class="place-cap-bottom">
                             <ul>
-                                <li><i class="far fa-clock"></i>3 Days</li>
-                                <li><i class="fas fa-map-marker-alt"></i>Los Angeles</li>
+                                <li><i class="far fa-clock"></i>6 Days</li>
+                                <li><i class="fas fa-map-marker-alt"></i>Bhutan</li>
                             </ul>
                         </div>
                     </div>
@@ -101,13 +101,13 @@
                     <div class="place-cap">
                         <div class="place-cap-top">
                             <span><i class="fas fa-star"></i><span>8.0 Superb</span> </span>
-                            <h3><a href="#">Cycling Tour</a></h3>
+                            <h3><a href="#">Bhutan Beyond: A 7-Day Journey Through the Himalayas</a></h3>
                             <p class="dolor">$1870 <span>/ Per Person</span></p>
                         </div>
                         <div class="place-cap-bottom">
                             <ul>
-                                <li><i class="far fa-clock"></i>3 Days</li>
-                                <li><i class="fas fa-map-marker-alt"></i>Los Angeles</li>
+                                <li><i class="far fa-clock"></i>7 Days</li>
+                                <li><i class="fas fa-map-marker-alt"></i>Bhutan</li>
                             </ul>
                         </div>
                     </div>

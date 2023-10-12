@@ -138,8 +138,8 @@
                             </div>
                             <div class="blog-cap">
                                 <p> |   Traveling</p>
-                                <h3><a href="single-blog.html">Tips For Taking A Long-Term Trip With Kids.</a></h3>
-                                <a href="#" class="more-btn">Read more »</a>
+                                <h3><a href="/cultural_tour">Cultural Tours For Traditional Scenes </a></h3>
+                                <a href="/cultural_tour" class="more-btn">Read more »</a>
                             </div>
                         </div>
                         <div class="blog-date text-center">
@@ -156,7 +156,7 @@
                             </div>
                             <div class="blog-cap">
                                 <p> |   Traveling</p>
-                                <h3><a href="single-blog.html">Tips For Taking A Long-Term Trip With Kids.</a></h3>
+                                <h3><a href="single-blog.html">Trekking Tours For Majestic Views</a></h3>
                                 <a href="#" class="more-btn">Read more »</a>
                             </div>
                         </div>
@@ -174,7 +174,7 @@
                             </div>
                             <div class="blog-cap">
                                 <p> |   Traveling</p>
-                                <h3><a href="single-blog.html">Tips For Taking A Long-Term Trip With Kids.</a></h3>
+                                <h3><a href="single-blog.html">Biking Tours For Thrilling Adventures</a></h3>
                                 <a href="#" class="more-btn">Read more »</a>
                             </div>
                         </div>
@@ -192,7 +192,7 @@
                             </div>
                             <div class="blog-cap">
                                 <p> |   Traveling</p>
-                                <h3><a href="single-blog.html">Tips For Taking A Long-Term Trip With Kids.</a></h3>
+                                <h3><a href="single-blog.html">Cycling Tours For Serene Exploration</a></h3>
                                 <a href="#" class="more-btn">Read more »</a>
                             </div>
                         </div>

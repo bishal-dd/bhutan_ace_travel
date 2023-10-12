@@ -26,6 +26,6 @@ Route::get('/contact', function () {
 });
 
 Route::get('/cultural_tour', function () {
-    return view('packages/cultural_tour');
+    return view('packages/cultural_tour/cultural_tour');
 });
 
