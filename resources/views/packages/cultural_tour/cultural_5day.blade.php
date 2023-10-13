@@ -96,12 +96,44 @@
                             <div id="included" class="container tab-pane fade">
                                 <!-- Included Content Goes Here -->
                                 <h3>Inclusions:</h3>
-                                <ul>
-                                    <li>Accommodations</li>
-                                    <li>Guided tours</li>
-                                    <li>Meals</li>
+                                <ol class="mt-3">
+                                    <li>
+                                        <h4>1. &nbsp; &nbsp; Sustainable Development Fee (SDF):</h4>
+                                        <ol>
+                                            <li>i. &nbsp; &nbsp; Included in the package is the Sustainable Development Fee (SDF) of $100 USD per person per night.</li>
+                                            <li>ii. &nbsp; &nbsp; This fee directly contributes to Bhutan's sustainable development initiatives.</li>
+                                        </ol>
+                                    </li>
+                                    <li>
+                                        <h4>2. &nbsp; &nbsp; Accommodation:</h4>
+                                        <ol>
+                                            <li>i. &nbsp; &nbsp; You will be lodged in 3-star rated hotels and lodges.</li>
+                                            <li>ii. &nbsp; &nbsp; These accommodations have been selected for their comfort and quality to enhance your stay in Bhutan.</li>
+                                        </ol>
+                                    </li>
+                                    <li>
+                                        <h4>3. &nbsp; &nbsp; English-Speaking Guide:</h4>
+                                        <ol>
+                                            <li>i. &nbsp; &nbsp; An experienced Bhutanese guide will be at your service.</li>
+                                            <li>ii. &nbsp; &nbsp; Your guide will provide valuable insights into Bhutan's history, culture, and traditions.</li>
+                                        </ol>
+                                    </li>
+                                    <li>
+                                        <h4>4. &nbsp; &nbsp; Transportation:</h4>
+                                        <ol>
+                                            <li>i. &nbsp; &nbsp; Enjoy the convenience of a comfortable and well-maintained vehicle for your transportation needs.</li>
+                                            <li>ii. &nbsp; &nbsp; Safety and comfort are top priorities when it comes to ground transportation within Bhutan.</li>
+                                        </ol>
+                                    </li>
+                                    <li>
+                                        <h4>5. &nbsp; &nbsp; Meals:</h4>
+                                        <ol>
+                                            <li>i. &nbsp; &nbsp; Your package includes daily meals, covering breakfast, lunch, and dinner.</li>
+                                            <li>ii. &nbsp; &nbsp; Savor a diverse array of both Bhutanese and international dishes during your stay.</li>
+                                        </ol>
+                                    </li>
                                     <!-- Add more included items as needed -->
-                                </ul>
+                                </ol>
                             </div>
                         </div>
                     </div>

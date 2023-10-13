@@ -10,7 +10,7 @@
             <div class="row">
                 <div class="col-xl-12">
                     <div class="hero-cap text-center">
-                        <h2>Cultural Tour</h2>
+                        <h2>Trekking Tours</h2>
                     </div>
                 </div>
             </div>
@@ -28,7 +28,7 @@
             <div class="col-lg-12">
                 <div class="section-tittle text-center">
                     <span>FEATURED TOURS Packages</span>
-                    <h2>Cultural Tours</h2>
+                    <h2>Trekking Tours</h2>
                 </div>
             </div>
         </div>

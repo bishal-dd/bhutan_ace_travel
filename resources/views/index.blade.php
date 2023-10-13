@@ -156,8 +156,8 @@
                             </div>
                             <div class="blog-cap">
                                 <p> |   Traveling</p>
-                                <h3><a href="single-blog.html">Trekking Tours For Majestic Views</a></h3>
-                                <a href="#" class="more-btn">Read more »</a>
+                                <h3><a href="/trekking_tour">Trekking Tours For Majestic Views</a></h3>
+                                <a href="/trekking_tour" class="more-btn">Read more »</a>
                             </div>
                         </div>
                         <div class="blog-date text-center">
@@ -174,8 +174,8 @@
                             </div>
                             <div class="blog-cap">
                                 <p> |   Traveling</p>
-                                <h3><a href="single-blog.html">Biking Tours For Thrilling Adventures</a></h3>
-                                <a href="#" class="more-btn">Read more »</a>
+                                <h3><a href="/biking_tour">Biking Tours For Thrilling Adventures</a></h3>
+                                <a href="/biking_tour" class="more-btn">Read more »</a>
                             </div>
                         </div>
                         <div class="blog-date text-center">
@@ -192,8 +192,8 @@
                             </div>
                             <div class="blog-cap">
                                 <p> |   Traveling</p>
-                                <h3><a href="single-blog.html">Cycling Tours For Serene Exploration</a></h3>
-                                <a href="#" class="more-btn">Read more »</a>
+                                <h3><a href="/cycling_tour">Cycling Tours For Serene Exploration</a></h3>
+                                <a href="/cycling_tour" class="more-btn">Read more »</a>
                             </div>
                         </div>
                         <div class="blog-date text-center">
