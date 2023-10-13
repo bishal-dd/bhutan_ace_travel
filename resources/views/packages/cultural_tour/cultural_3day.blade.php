@@ -65,7 +65,7 @@
                             <div id="itinerary" class="container tab-pane fade active in">
                                 <!-- Itinerary Content Goes Here -->
                                 <h3>Day 1.</h3>
-                                <p>
+                                <p class="text-justify">
                                     Morning arrival by plane to Paro airport. Drive to Thimphu with stop at Tachog lhakhang to see
                                     traditional bridge made using ancient iron chains. After reaching capital, drive to the gigantic Buddha
                                     Dordenma statue overlooking Thimphu town. Then drop to Changlimithang stadium to see the archery,
@@ -76,7 +76,7 @@
                                     to monumental Tashichho dzong castle, the seat of the king and government. Overnight at Thimphu.
                                 </p>
                                 <h3>Day 2.</h3>
-                                <p>
+                                <p class="text-justify">
                                     Drive to Paro Hike to Taktsang gomba (The Tiger’s Nest) is the absolute highlight of the tour! While the
                                     climb seems to be hard, it’s very rewarding. If you don’t feel so strong, you can cut it short in cafeteria
                                     with nice view of the temple. If you have spare strength, you might hike up to Zangtopelri Lhakhang to
@@ -92,7 +92,7 @@
                                     farmhouse can be arranged.
                                 </p>
                                 <h3>Day 3.</h3>
-                                <p>
+                                <p class="text-justify">
                                     If time permits, you can drive to Drukyel dzong to see a freshly reconstructed castle and the summit of
                                     holy Jomolhari mountain in clear weather. After that, you depart from Paro by flight or take 5 hours’
                                     drive to land border in Phuntsholing.
@@ -124,7 +124,7 @@
                         <div class="media post_item">
                             <img src="{{asset("assets/img/cultural_5day.webp")}}" width="70" height="50" alt="post">
                             <div class="media-body">
-                                <a href="single-blog.html">
+                                <a href="/cultural_5day">
                                     <h3>Bhutan Unveiled: A 5-Day Himalayan Odyssey.</h3>
                                 </a>
                                 <p>5 Days</p>
@@ -133,7 +133,7 @@
                         <div class="media post_item">
                             <img src="{{asset("assets/img/cultural_6day.webp")}}" width="70" height="50" alt="post">
                             <div class="media-body">
-                                <a href="single-blog.html">
+                                <a href="/cultural_6day">
                                     <h3>Bhutan Expedition: A 6-Day Himalayan Journey</h3>
                                 </a>
                                 <p>6 Days</p>
@@ -142,7 +142,7 @@
                         <div class="media post_item">
                             <img src="{{asset("assets/img/cultural_7day.webp")}}" width="70" height="50" alt="post">
                             <div class="media-body">
-                                <a href="single-blog.html">
+                                <a href="/cultural_7day">
                                     <h3>Bhutan Beyond: A 7-Day Journey Through the Himalayas</h3>
                                 </a>
                                 <p>7 days</p>

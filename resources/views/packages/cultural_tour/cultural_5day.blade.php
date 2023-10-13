@@ -64,31 +64,31 @@
                             <div id="itinerary" class="container tab-pane fade active in">
                                 <!-- Itinerary Content Goes Here -->
                                 <h3>Day 1: Arrival in Paro – Thimphu</h3>
-                                <p>
+                                <p class="text-justify">
                                     Arrive at Paro International Airport with your guide  and transfer to Thimphu,
                                     the capital city of Bhutan. Visit the National Memorial Chorten, Buddha Dordenma statue and Tashichho
                                     Dzong. Overnight in Thimphu.
                                 </p>
                                 <h3>Day 2: Thimphu Sightseeing</h3>
-                                <p>
+                                <p class="text-justify">
                                     Visit the Folk Heritage Museum, Textile Museum, and the Institute for Zorig Chusum (Arts and Crafts
                                     School). Take a short hike to the Tango Monastery, a Buddhist monastery built in the 13th century. Visit
                                     the Takin Preserve, where you can see Bhutan’s national animal, the takin. Overnight in Thimphu.
                                 </p>
                                 <h3>Day 3: Thimphu – Punakha</h3>
-                                <p>
+                                <p class="text-justify">
                                     Drive to Punakha, the ancient capital of Bhutan. Stop at Dochula Pass (3,100 meters) for a stunning view
                                     of the Himalayan mountains. Visit Punakha Dzong, a fortress-monastery built in the 17th century. Hike
                                     to Chimi Lhakhang, a temple dedicated to the divine madman, Drukpa Kunley. Overnight in Punakha.
                                 </p>
                                 <h3>Day 4: Punakha – Paro</h3>
-                                <p>
+                                <p class="text-justify">
                                     Drive back to Paro. Visit Rinpung Dzong, a 17th-century fortress-monastery overlooking the Paro Valley.
                                     Take a short hike to the famous Tiger’s Nest Monastery (Taktsang Monastery), a sacred Buddhist site
                                     located on a cliff at an altitude of 3,120 meters. Overnight in Paro.
                                 </p>
                                 <h3>Day 5: Departure from Paro</h3>
-                                <p>
+                                <p class="text-justify">
                                     Departure from Paro International Airport.
                                 </p>
                                 <!-- Add more itinerary details as needed -->
@@ -118,7 +118,7 @@
                         <div class="media post_item">
                             <img src="{{asset("assets/img/cultural_3day.webp")}}" width="70" height="50" alt="post">
                             <div class="media-body">
-                                <a href="single-blog.html">
+                                <a href="/cultural_3day">
                                     <h3> Bhutan Bliss: A 3-Day Himalayan Adventure</h3>
                                 </a>
                                 <p>3 Days</p>
@@ -127,7 +127,7 @@
                         <div class="media post_item">
                             <img src="{{asset("assets/img/cultural_6day.webp")}}" width="70" height="50" alt="post">
                             <div class="media-body">
-                                <a href="single-blog.html">
+                                <a href="/cultural_6day">
                                     <h3>Bhutan Expedition: A 6-Day Himalayan Journey</h3>
                                 </a>
                                 <p>6 Days</p>
@@ -136,7 +136,7 @@
                         <div class="media post_item">
                             <img src="{{asset("assets/img/cultural_7day.webp")}}" width="70" height="50" alt="post">
                             <div class="media-body">
-                                <a href="single-blog.html">
+                                <a href="/cultural_7day">
                                     <h3>Bhutan Beyond: A 7-Day Journey Through the Himalayas</h3>
                                 </a>
                                 <p>7 days</p>

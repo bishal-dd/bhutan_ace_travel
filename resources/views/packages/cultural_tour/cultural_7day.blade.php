@@ -10,7 +10,7 @@
             <div class="row">
                 <div class="col-xl-12">
                     <div class="hero-cap text-center">
-                        <h2>Bhutan Bliss: A 3-Day Himalayan Adventure</h2>
+                        <h2>Bhutan Beyond: A 7-Day Journey Through the Himalayas</h2>
                     </div>
                 </div>
             </div>
@@ -25,28 +25,29 @@
             <div class="col-lg-8 posts-list">
                 <div class="single-post">
                     <div class="feature-img">
-                        <img class="img-fluid" src="{{asset("assets/img/cultural_3day.webp")}}" alt="">
+                        <img class="img-fluid" src="{{asset("assets/img/cultural_7day.webp")}}" alt="">
                     </div>
                     <div class="blog_details">
                         <h2>
-                            Bhutan Bliss: A 3-Day Himalayan Adventure
+                            Bhutan Beyond: A 7-Day Journey Through the Himalayas
                         </h2>
                         <ul class="blog-info-link mt-3 mb-4">
                             <li><a href="#"><i class="fa fa-user"></i> Travel</a></li>
                         </ul>
                         <p class="excert text-justify">
-                            Nestled high in the Eastern Himalayas, Bhutan is a land like no other, a time-honored realm where tradition and tranquility harmoniously coexist.
-                            Known as the "Land of the Thunder Dragon," this mystical kingdom is a sanctuary of untouched natural beauty, rich
-                            cultural heritage, and profound spirituality. As you embark on a journey into the heart of Bhutan, you'll discover
-                            a land that seems to have been plucked from the pages of a fairy tale,
-                            where every hillside whispers stories of ancient legends and where happiness is not merely a goal but a way of life.
+                            Bhutan's breathtaking natural scenery is a true testament to the country's untouched beauty.
+                            The rugged mountains, lush valleys, dense forests, and pristine rivers make Bhutan a paradise
+                            for nature enthusiasts and adventurers. The pristine Bhutanese landscape is home to rare and
+                            exotic flora
+                            and fauna, including the elusive snow leopard, takin, and a wide array of vibrant bird species.
                         </p>
                         <p class="text-justify">
-                            Bhutan's pristine landscapes encompass some of the most awe-inspiring terrain in the world. From the lush,
-                            subtropical forests of the south to the towering peaks and glaciers of the north, Bhutan offers a breathtaking
-                            panorama of ecological diversity. Towering mountains, including the legendary Gangkhar Puensum, the world's
-                            highest unclimbed peak, are punctuated by pristine rivers and valleys.
-                            The landscapes provide not only stunning vistas but also opportunities for hiking, trekking, and adventure.
+                            Bhutan's culture is deeply rooted in Buddhism, and it's a nation where traditions are held in high esteem. The architecture,
+                            with its distinctive Dzong and monasteries, showcases intricate woodwork and vibrant murals,
+                            and provides a glimpse into Bhutan's spiritual heritage. Festivals, such as the famous Paro
+                            Tsechu, provide an opportunity to witness traditional dances, masked performances, and the
+                            local way of life.
+
                         </p>
                     </div>
                 </div>
@@ -64,38 +65,86 @@
                         <div class="tab-content mt-5">
                             <div id="itinerary" class="container tab-pane fade active in">
                                 <!-- Itinerary Content Goes Here -->
-                                <h3>Day 1.</h3>
-                                <p>
-                                    Morning arrival by plane to Paro airport. Drive to Thimphu with stop at Tachog lhakhang to see
-                                    traditional bridge made using ancient iron chains. After reaching capital, drive to the gigantic Buddha
-                                    Dordenma statue overlooking Thimphu town. Then drop to Changlimithang stadium to see the archery,
-                                    traditional sport of Bhutan. Matches are going on from the morning to the evening! Continue to central
-                                    Clock Tower square and walk in Norzin lam street and see the traffic police signaling in junctions.
-                                    Thimphu is only capital in the world without the traffic lights. Finish walk at handicraft market where
-                                    many interesting Bhutanese souvenirs can be seen and bought for reasonable price. Late afternoon visit
-                                    to monumental Tashichho dzong castle, the seat of the king and government. Overnight at Thimphu.
+                                <h3>Day 1 Paro to Thimphu</h3>
+                                <p class="text-justify">
+                                    Arrival by plane to Paro airport and drive to Thimphu and stop at Tachog lhakhang to see traditional
+                                    bridge made using ancient iron chains. After reaching Thimphu, drive to Changlimithang stadium to see
+                                    the archery, traditional sport of Bhutan. Matches are going on from the morning to the evening! On
+                                    working day, you might visit Postal Museum to learn about the colorful history of Bhutan&#39;s postal
+                                    service. You can also have the stamps with your own face printed and send postcards to your friends
+                                    and family back home! During weekends, you might like to see Centenary market where residents make
+                                    their grocery shopping. Market also have interesting handicraft section. Visit to Tashichho dzong castle,
+                                    the seat of the king and government. Optionally celebrate arrival to Bhutan in famous Mojo Park music
+                                    club or other popular venue. Day&#39;s program is subject to arrival time.
                                 </p>
-                                <h3>Day 2.</h3>
-                                <p>
-                                    Drive to Paro Hike to Taktsang gomba (The Tiger’s Nest) is the absolute highlight of the tour! While the
-                                    climb seems to be hard, it’s very rewarding. If you don’t feel so strong, you can cut it short in cafeteria
-                                    with nice view of the temple. If you have spare strength, you might hike up to Zangtopelri Lhakhang to
-                                    get birds-eye view of Tiger&#39;s Nest! You can consider hiking in the morning or early afternoon depending
-                                    on weather, your fitness, and preferences. Also visit of the National Museum in Ta dzong, the
-                                    watchtower protecting the Paro castle from intruders. Then descend to Rinpung dzong or “The castle on
-                                    the heap of jewels”. Inside are local government offices and monastery. Scenes from famous Little
-                                    Buddha film was shot here. Walk down to the old traditional bridge below the Paro Dzong. Here, you
-                                    will have opportunity to try Bhutanese dress and take a beautiful photo with castle in the background!
-                                    Continue to Paro airport viewpoint. Depending on schedule, you might see planes landing and taking off.
-                                    Runway in Paro is famed as one of the most demanding of all World&#39;s International airports. Enjoy the
-                                    last evening in Bhutan! Optionally the mask dance performance along with traditional dinner in the local
-                                    farmhouse can be arranged.
+                                <h3>Day 2 Thimphu</h3>
+                                <p class="text-justify">
+                                    Morning drive to Buddha Dordenma, the gigantic statue of Buddha overlooking the valley and walk to
+                                    striking city viewpoint. Continue to wild animal sanctuary, where you can see the takin, famous national
+                                    animal of Bhutan and other dwellers of Bhutanese forests.Drop to central Clock Tower square and walk
+                                    in Norzin lam street to see the traffic police signaling on main junction. Thimphu is only capital in the
+                                    world without the traffic lights. Finish walk at handicraft market where many interesting Bhutanese
+                                    souvenirs can be seen and bought for reasonable price. Continue with visit to Folk Heritage Museum
+                                    with the exhibition on traditional village life in Bhutan (closed on Sunday, alternatively visit Simply
+                                    Bhutan museum). Go to hand paper factory where you can see production process as well as buy
+                                    original products. Nearby traditional thangkha painting gallery is also worth of peeking in.Evening visit of
+                                    historical Dechen Phodrang monastery, overlooking the Thimphu valley. From here you can also see
+                                    monumental Tashichho dzong and other landmarks.
                                 </p>
-                                <h3>Day 3.</h3>
-                                <p>
-                                    If time permits, you can drive to Drukyel dzong to see a freshly reconstructed castle and the summit of
-                                    holy Jomolhari mountain in clear weather. After that, you depart from Paro by flight or take 5 hours’
-                                    drive to land border in Phuntsholing.
+                                <h3>Day 3 Thimphu – Gangtey</h3>
+                                <p class="text-justify">
+                                    Transfer to Wangdue Phrodang over Dochu-la pass (3010 m) with visit of royal temple Druk Wangyel
+                                    lhakhang. In clear weather, you have good chances for panoramic views of mountains, including
+
+                                    Gangkhar Phuensum (7570m), the highest mountain of Bhutan. Descend to tropical valley of Punatsang
+                                    Chu river. Soon after lunch you will start driving up to the mountains again until you reach pristine
+                                    Phobjika valley (2750 m). On arrival in the Phobjikha Valley in the last week of October, the black-necked
+                                    cranes circle the Gangteng Monastery three times and also repeat the process while returning to Tibet,
+                                    visit crane center the valley is rich in faunal biodiversity and has, apart from the globally threatened
+                                    black-necked cranes
+                                </p>
+                                <h3>Day 4 Gantey – Punakha</h3>
+                                <p class="text-justify">
+                                    After breakfast drive to Punakha, on the way visit Chimi Lhakhang, situated on a hillock in the center of
+                                    the Lobesa valley, is dedicated to Lama Drukpa Kuenley, who in the late 15th century used humor, songs
+                                    and outrageous behavior to dramatize his teachings and due to this also known as ‘Divine Madman’.
+                                    This temple is also known as the temple of fertility. It is widely believed that couples who do not have
+                                    children and wanting one, if they pray at this temple, they are usually blessed with a child very soon. It is
+                                    about 30-minute walk across field from the road to the temple or you can drive directly to temple.
+                                    visit Punakha Dzong, a massive structure built at the junction of two rivers. Punakha was Bhutan’s
+                                    capital until 1955, and Punakha Dzong still serves as the winter residence of the central monk body.
+                                    Bhutan’s first King, Ugyen Wangchuck, was crowned here in 1907. The fortress has withstood several
+                                    damages from fire, earthquake and flood over the centuries. The latest flood, in October, 1994, caused
+                                    great damages to the fortress but miraculously spared its most holy statue.
+                                </p>
+                                <h3>Day 5 Punakha – Paro</h3>
+                                <p class="text-justify">
+                                    After berakfast, drive directly to Paro after reaching Paro town visit to Ta Dzong, which in the past
+                                    served as watchtower for Paro Dzong (Rinpung Dzong) and now houses the National Museum.
+                                    Then walk down the trail to visit Rinpung Dzong, built in 1646 by Shabdrung Ngawang Namgyal , the first
+                                    spiritual and temporal ruler of Bhutan, the Dzong houses the monastic body of Paro, the office of the
+                                    Dzongda (district administrative head) and Thrimpon (judge) of Paro district. The approach to the Dzong
+                                    is through a traditional covered bridge called Nemi Zam. A walk through the bridge, over a stone inlaid
+                                    path, offers a good view of the architectural wonder of the Dzong as well as you can try to wear the
+                                    Bhutan National dress and get wonderful picture. Background of Paro Dzong along with wooden bridge
+                                    and evening walk around the Paro town for any shopping.
+                                </p>
+                                <h3>Day 6 Paro</h3>
+                                <p class="text-justify">
+                                    After Breakfast proceeds to Taktsang Monastery more famous as Paro Taktsang is a Buddhist temple
+                                    complex which clings to a cliff, 3120 meters above the sea level on the side of the upper Paro valley,
+                                    Bhutan. The Taktsang Monastery is one of the most famous touristic destinations of the country and the
+                                    cultural icon of Bhutan. Visiting the Paro Taktsang Monastery is an unforgettable experience thanks to
+                                    its unique location and the views of surrounding majestic mountains and emerald green valleys.
+                                    It takes around 1 hour, 45 minutes to get to Taktshang walking or riding a horse. If the full hike is too
+                                    tough, you can rest at the wooden teahouse restaurant or cafeteria after the first hour. The trail takes
+                                    you through blue-pines to a series of three water-powered wheels.
+
+                                    Evening walk around the Paro town for any shopping.
+                                </p>
+                                <h3>Day 7</h3>
+                                <p class="text-justify">
+                                    After breakfast drive to the airport for flight to onward destination.
                                 </p>
                                 <!-- Add more itinerary details as needed -->
                             </div>
@@ -124,7 +173,7 @@
                         <div class="media post_item">
                             <img src="{{asset("assets/img/cultural_5day.webp")}}" width="70" height="50" alt="post">
                             <div class="media-body">
-                                <a href="single-blog.html">
+                                <a href="/cultural_5day">
                                     <h3>Bhutan Unveiled: A 5-Day Himalayan Odyssey.</h3>
                                 </a>
                                 <p>5 Days</p>
@@ -133,19 +182,19 @@
                         <div class="media post_item">
                             <img src="{{asset("assets/img/cultural_6day.webp")}}" width="70" height="50" alt="post">
                             <div class="media-body">
-                                <a href="single-blog.html">
+                                <a href="/cultural_6day">
                                     <h3>Bhutan Expedition: A 6-Day Himalayan Journey</h3>
                                 </a>
                                 <p>6 Days</p>
                             </div>
                         </div>
                         <div class="media post_item">
-                            <img src="{{asset("assets/img/cultural_7day.webp")}}" width="70" height="50" alt="post">
+                            <img src="{{asset("assets/img/cultural_3day.webp")}}" width="70" height="50" alt="post">
                             <div class="media-body">
-                                <a href="single-blog.html">
-                                    <h3>Bhutan Beyond: A 7-Day Journey Through the Himalayas</h3>
+                                <a href="/cultural_3day">
+                                    <h3>Bhutan Bliss: A 3-Day Himalayan Adventure</h3>
                                 </a>
-                                <p>7 days</p>
+                                <p>3 days</p>
                             </div>
                         </div>
                     </aside>

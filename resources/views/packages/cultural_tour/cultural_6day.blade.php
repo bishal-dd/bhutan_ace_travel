@@ -43,11 +43,11 @@
                             apart as a nation that prioritizes the happiness and contentment of its people above all else.
                         </p>
                         <p class="text-justify">
-                            Bhutan's pristine landscapes encompass some of the most awe-inspiring terrain in the world. From the lush,
-                            subtropical forests of the south to the towering peaks and glaciers of the north, Bhutan offers a breathtaking
-                            panorama of ecological diversity. Towering mountains, including the legendary Gangkhar Puensum, the world's
-                            highest unclimbed peak, are punctuated by pristine rivers and valleys.
-                            The landscapes provide not only stunning vistas but also opportunities for hiking, trekking, and adventure.
+                            While on your tour of Bhutan, you can indulge in a variety of experiences that will
+                            stay with you forever. Hike to the Tiger's Nest Monastery, perched precariously on a cliff,
+                            or explore the ancient streets of Thimphu, Bhutan's capital. Savor the delicious Bhutanese
+                            cuisine, dominated
+                            by spicy chilies and delicious cheese, and take part in archery, Bhutan's national sport.
                         </p>
                     </div>
                 </div>
@@ -66,14 +66,14 @@
                             <div id="itinerary" class="container tab-pane fade active in">
                                 <!-- Itinerary Content Goes Here -->
                                 <h3>Day 1. Paro to Thimphu</h3>
-                                <p>
+                                <p class="text-justify">
                                     Arrival by plane to Paro airport and drive to Thimphu or in case of arrival by land, crossing border from
                                     India in Phuntsholing/Jaigon and full day drive to Thimphu. Stop at Tachog lhakhang to see traditional
                                     bridge made using ancient iron chains. Visit of Tashicho dzong , the castle, which serves as seat of the
                                     king and government. Other sightseeing depending on the arrival time.
                                 </p>
                                 <h3>Day 2. Thimphu</h3>
-                                <p>
+                                <p class="text-justify">
                                     Early morning drive to Buddha Dordenma, the gigantic statue of Buddha overlooking the valley and walk
                                     to striking city viewpoint. See Memorial Chorten, always busy with devotees. Vist Changangkha Temple
                                     is the one of oldest temples in the Thimphu valley. Later in the evening visit Tashichoedzong and Walk in
@@ -82,20 +82,20 @@
                                     can be seen and bought for reasonable price. Overnight in Thimphu.
                                 </p>
                                 <h3>Day 3 Thimphu to Punakha</h3>
-                                <p>
+                                <p class="text-justify">
                                     Drive to Punakha, the ancient capital of Bhutan. Stop at Dochula Pass (3,100 meters) for a stunning view
                                     of the Himalayan mountains. Visit Punakha Dzong, a fortress-monastery built in the 17th century. Hike
                                     to Chimi Lhakhang, a temple dedicated to the divine madman, Drukpa Kunley. Overnight in Punakha.
                                 </p>
                                 <h3>Day 4 Punakha to Paro</h3>
-                                <p>
+                                <p class="text-justify">
                                     Drive back to Paro. Visit Rinpung Dzong, a 17th-century fortress-monastery overlooking the Paro Valley.
                                     Visit of the National Museum and Paro dzong (Rinpung dzong), the castle-monastery where Bernardo
                                     Bertolucci’s Little Buddha film was shot. Pristine Kyichu lhakhang is one of the two oldest temples built
                                     in Bhutan. later in evening scroll in market. Overnight in Paro
                                 </p>
                                 <h3>Day 5 Paro</h3>
-                                <p>
+                                <p class="text-justify">
                                     After breakfast Climb to Taktsang gomba (Tiger’s Nest) is the highlight of the tour. While the hike seems
                                     to be hard, it’s very rewarding. If you don’t feel so strong, you can climb just halfway to cafeteria with
                                     nice view of the place. If time permits, you can make visit to Drukyel dzong, the castle ruins from where
@@ -132,7 +132,7 @@
                         <div class="media post_item">
                             <img src="{{asset("assets/img/cultural_5day.webp")}}" width="70" height="50" alt="post">
                             <div class="media-body">
-                                <a href="single-blog.html">
+                                <a href="/cultural_5day">
                                     <h3>Bhutan Unveiled: A 5-Day Himalayan Odyssey.</h3>
                                 </a>
                                 <p>5 Days</p>
@@ -141,7 +141,7 @@
                         <div class="media post_item">
                             <img src="{{asset("assets/img/cultural_3day.webp")}}" width="70" height="50" alt="post">
                             <div class="media-body">
-                                <a href="single-blog.html">
+                                <a href="/cultural_3day">
                                     <h3>Bhutan Bliss: A 3-Day Himalayan Adventure</h3>
                                 </a>
                                 <p>3 Days</p>
@@ -150,7 +150,7 @@
                         <div class="media post_item">
                             <img src="{{asset("assets/img/cultural_7day.webp")}}" width="70" height="50" alt="post">
                             <div class="media-body">
-                                <a href="single-blog.html">
+                                <a href="/cultural_7day">
                                     <h3>Bhutan Beyond: A 7-Day Journey Through the Himalayas</h3>
                                 </a>
                                 <p>7 days</p>
