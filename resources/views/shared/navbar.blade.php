@@ -46,10 +46,10 @@
                                         <li class="dropdown">
                                             <a href="#">Tour Packages <i class="fas fa-chevron-down"></i></a>
                                             <ul class="submenu">
-                                                <li><a href="/cultural_tour">Cultural Tour</a></li>
-                                                <li><a href="/trekking_tour">Trekking</a></li>
-                                                <li><a href="/biking_tour">Biking</a></li>
-                                                <li><a href="/cycling_tour">Cycling</a></li>
+                                                <li><a href="/cultural_tour">Cultural Tours</a></li>
+                                                <li><a href="/trekking_tour">Trekking Tours</a></li>
+                                                <li><a href="/biking_tour">Biking Tours</a></li>
+                                                <li><a href="/cycling_tour">Cycling Tours</a></li>
                                                 <!-- Add more package links as needed -->
                                             </ul>
                                         </li>
