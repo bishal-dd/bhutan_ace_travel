@@ -32,12 +32,12 @@
                 <div class="col-xl-3 col-lg-3 col-md-4 col-sm-7">
                     <div class="single-footer-caption mb-50">
                         <div class="footer-tittle">
-                            <h4>New Products</h4>
+                            <h4>Tour Packages</h4>
                             <ul>
-                                <li><a href="#">Woman Cloth</a></li>
-                                <li><a href="#">Fashion Accessories</a></li>
-                                <li><a href="#"> Man Accessories</a></li>
-                                <li><a href="#"> Rubber made Toys</a></li>
+                                <li><a href="/cultural_tour">Cultural Tours</a></li>
+                                <li><a href="/trekking_tour">Trekking Tours</a></li>
+                                <li><a href="/biking_tour">Biking Tours</a></li>
+                                <li><a href="/cycling_tour">Cycling Tours</a></li>
                             </ul>
                         </div>
                     </div>
@@ -47,11 +47,9 @@
                         <div class="footer-tittle">
                             <h4>Support</h4>
                             <ul>
-                                <li><a href="#">Frequently Asked Questions</a></li>
-                                <li><a href="#">Terms & Conditions</a></li>
-                                <li><a href="#">Privacy Policy</a></li>
-                                <li><a href="#">Privacy Policy</a></li>
-                                <li><a href="#">Report a Payment Issue</a></li>
+                                <li><a href="#">Changlam Plaza, Thimphu</a></li>
+                                <li><a href="#">+975-17830818/17642134</a></li>
+                                <li><a href="#">info@acetravels023.bt</a></li>
                             </ul>
                         </div>
                     </div>
