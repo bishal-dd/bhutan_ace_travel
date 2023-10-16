@@ -19,11 +19,11 @@
                 </a>
             </div>
             <div class="col-lg-3 offset-sm-1 rounded-circle shadow" style="background-color: #f2f2f2">
-                <a href="https://api.whatsapp.com/send?phone=15551234567" target="_blank">
+                <a href="https://api.whatsapp.com/send?phone=77201625" target="_blank">
                 <div class="media contact-info p-4 mt-5">
                     <span class="contact-info__icon"><i class="fab fa-whatsapp" style="font-size: 60px; color: #4fcb5d"></i></span>
                     <div class="media-body">
-                        <h3>+975-17830818 / 17642134</h3>
+                        <h3>+975-17830818 / 77201625</h3>
                         <p>Mon to Fri 9am to 5pm</p>
                     </div>
                 </div>
