@@ -56,3 +56,7 @@ Route::get('/biking_tour', function () {
 Route::get('/cycling_tour', function () {
     return view('packages/cycling_tour/cycling_tour');
 });
+
+Route::get('/travel_info', function () {
+    return view('travel_info');
+});

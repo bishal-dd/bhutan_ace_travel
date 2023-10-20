@@ -42,7 +42,6 @@
                         <div class="place-cap-top">
                             <span><i class="fas fa-star"></i><span>8.0 Superb</span> </span>
                             <h3><a href="/cultural_3day">Bhutan Bliss: A 3-Day Himalayan Adventure</a></h3>
-
                         </div>
                         <div class="place-cap-bottom">
                             <ul>

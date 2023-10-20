@@ -43,14 +43,69 @@
                                     <ul id="navigation">
                                         <li><a href="/">Home</a></li>
                                         <li><a href="/about">About US</a></li>
+                                        <li><a href="/travel_info">Travel Info</a></li>
                                         <li class="dropdown">
-                                            <a href="#">Tour Packages <i class="fas fa-chevron-down"></i></a>
-                                            <ul class="submenu">
-                                                <li><a href="/cultural_tour">Cultural Tours</a></li>
-                                                <li><a href="/trekking_tour">Trekking Tours</a></li>
-                                                <li><a href="/biking_tour">Biking Tours</a></li>
-                                                <li><a href="/cycling_tour">Cycling Tours</a></li>
-                                                <!-- Add more package links as needed -->
+                                            <a href="#">Itineraries <i class="fas fa-chevron-down"></i></a>
+                                            <ul class="submenu bg-light ">
+                                                    <!-- Split dropright button -->
+                                                <li>
+                                                    <div class="dropleft">
+                                                        <a class="dropdown-toggle dropdown-toggle-split bg-light text-dark p-1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                                            Sample Cultural Tours
+                                                        </a>
+                                                        <div class="dropdown-menu" >
+                                                                <a href="/cultural_3day"  class="p-1">A 3-Day Himalayan Adventure</a>
+                                                                <div class="dropdown-divider"></div>
+                                                                <a href="/cultural_5day" class="p-1">A 5-Day Himalayan Odyssey</a>
+                                                                <div class="dropdown-divider"></div>
+                                                                <a href="/cultural_6day" class="p-1">A 6-Day Himalayan Journey</a>
+                                                                <div class="dropdown-divider"></div>
+                                                                <a href="/cultural_7day" class="p-1">A 7-Day Journey Through the Himalayas</a>
+                                                                <!-- Add more package links as needed -->
+                                                        </div>
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <div class="dropleft">
+                                                        <a class="dropdown-toggle dropdown-toggle-split bg-light text-dark p-1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                                            Sample Trekking Tours
+                                                        </a>
+                                                        <div class="dropdown-menu">
+                                                                <a href="/cultural_tour" class="p-1">Cultural Tours</a>
+                                                                <a href="/trekking_tour" class="p-1">Trekking Tours</a>
+                                                                <a href="/biking_tour" class="p-1">Biking Tours</a>
+                                                                <a href="/cycling_tour" class="p-1">Cycling Tours</a>
+                                                                <!-- Add more package links as needed -->
+                                                        </div>
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <div class="dropleft">
+                                                        <a class="dropdown-toggle dropdown-toggle-split bg-light text-dark p-1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                                            Sample Biking Tours
+                                                        </a>
+                                                        <div class="dropdown-menu">
+                                                                <a href="/cultural_tour" class="p-1">Cultural Tours</a>
+                                                                <a href="/trekking_tour" class="p-1">Trekking Tours</a>
+                                                                <a href="/biking_tour" class="p-1">Biking Tours</a>
+                                                                <a href="/cycling_tour" class="p-1">Cycling Tours</a>
+                                                                <!-- Add more package links as needed -->
+                                                        </div>
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <div class="dropleft">
+                                                        <a class="dropdown-toggle dropdown-toggle-split bg-light text-dark p-1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                                            Cycling Tours
+                                                        </a>
+                                                        <div class="dropdown-menu">
+                                                                <a href="/cultural_tour" class="p-1">Cultural Tours</a>
+                                                                <a href="/trekking_tour" class="p-1">Trekking Tours</a>
+                                                                <a href="/biking_tour" class="p-1">Biking Tours</a>
+                                                                <a href="/cycling_tour" class="p-1">Cycling Tours</a>
+                                                        </div>
+                                                    </div>
+                                                </li>                                                
                                             </ul>
                                         </li>
                                         <li><a href="/contact">Contact Us</a></li>
