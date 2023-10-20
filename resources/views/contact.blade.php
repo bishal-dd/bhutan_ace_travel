@@ -13,7 +13,7 @@
                     <span class="contact-info__icon"><i class="fas fa-location-arrow" style="font-size: 60px; color: #f4493c"></i></span>
                     <div class="media-body">
                         <h3>Changlam Plaza, Thimphu</h3>
-                        <p>Room No. 102</p>
+                        <p>Room No. 103</p>
                     </div>
                 </div>
                 </a>
@@ -23,7 +23,7 @@
                 <div class="media contact-info p-4 mt-5">
                     <span class="contact-info__icon"><i class="fab fa-whatsapp" style="font-size: 60px; color: #4fcb5d"></i></span>
                     <div class="media-body">
-                        <h3>+975-17830818 / 77201625</h3>
+                        <h3>+975-77201625 / 17830818  </h3>
                         <p>Mon to Fri 9am to 5pm</p>
                     </div>
                 </div>

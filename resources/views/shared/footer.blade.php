@@ -2,8 +2,8 @@
     <!-- Footer Start-->
     <div class="footer-area footer-padding footer-bg" data-background="{{ asset('assets/img/service/footer_bg.webp') }}">
         <div class="container">
-            <div class="row d-flex justify-content-between">
-                <div class="col-xl-3 col-lg-3 col-md-5 col-sm-6">
+            <div class="row">
+                <div class="col-md-3">
                     <div class="single-footer-caption mb-50">
                         <div class="single-footer-caption mb-30">
                             <!-- logo -->
@@ -18,37 +18,50 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-2 col-lg-3 col-md-3 col-sm-5">
+                
+                <div class="col-md-2">
                     <div class="single-footer-caption mb-50">
                         <div class="footer-tittle">
                             <h4>Quick Links</h4>
                             <ul>
-                                <li><a href="/about">About</a></li>
-                                <li><a href="/contact">  Contact Us</a></li>
+                                <li><a href="/about">About Us</a></li>
+                                <li><a href="/contact">Contact Us</a></li>
+                                <li><a href="https://www.drukair.com.bt/">Druk Air</a></li>
+                                <li><a href="https://www.bhutanairlines.bt/">Bhutan Airlines</a></li>
                             </ul>
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-3 col-lg-3 col-md-4 col-sm-7">
+                <div class="col">
                     <div class="single-footer-caption mb-50">
                         <div class="footer-tittle">
-                            <h4>Tour Packages</h4>
+                            <h4>Affiliations</h4>
                             <ul>
-                                <li><a href="/cultural_tour">Cultural Tours</a></li>
-                                <li><a href="/trekking_tour">Trekking Tours</a></li>
-                                <li><a href="/biking_tour">Biking Tours</a></li>
-                                <li><a href="/cycling_tour">Cycling Tours</a></li>
+                                <li><a href="https://bhutan.travel/">Department of Tourism, Bhutan.</a></li>
+                                <li><a href="https://abto.org.bt/">Association of Bhutanese Tour Operators (ABTO)</a></li>
+                                <li><a href="https://www.gab.org.bt/">Guides Associations of Bhutan (GAB)</a></li>
                             </ul>
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-3 col-lg-3 col-md-5 col-sm-7">
+                <div class="col-md-2">
                     <div class="single-footer-caption mb-50">
                         <div class="footer-tittle">
-                            <h4>Support</h4>
+                            <h4>Partners</h4>
+                            <ul>
+                                <li><a href="https://www.yatra.com/">yatra.com</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="single-footer-caption mb-50">
+                        <div class="footer-tittle">
+                            <h4>Contact Us</h4>
                             <ul>
                                 <li><a href="#">Changlam Plaza, Thimphu</a></li>
-                                <li><a href="#">+975-17830818/17642134</a></li>
+                                <li><a href="#"> Mobile: +975-17 83 08 18</a></li>
+                                <li><a href="https://api.whatsapp.com/send?phone=77201625"> <i class="fab fa-whatsapp"></i> Whatsapp: +975-77 20 16 25</a></li>
                                 <li><a href="#">info@acetravels023.bt</a></li>
                             </ul>
                         </div>
