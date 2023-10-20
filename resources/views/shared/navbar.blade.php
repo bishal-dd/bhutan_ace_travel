@@ -71,10 +71,10 @@
                                                             Sample Trekking Tours
                                                         </a>
                                                         <div class="dropdown-menu">
-                                                                <a href="/cultural_tour" class="p-1">Cultural Tours</a>
-                                                                <a href="/trekking_tour" class="p-1">Trekking Tours</a>
-                                                                <a href="/biking_tour" class="p-1">Biking Tours</a>
-                                                                <a href="/cycling_tour" class="p-1">Cycling Tours</a>
+                                                                <a href="/dagala_trek" class="p-1">Dagala Trek - 5 days</a>
+                                                                <a href="/drukpath_trek" class="p-1">Drukpath Trek - 5 days</a>
+                                                                <a href="/jomo_trek" class="p-1">Jomolhari Trek - 7 days</a>
+                                                                <a href="/laya_trek" class="p-1">Laya-Gasa Trek - 12 days</a>
                                                                 <!-- Add more package links as needed -->
                                                         </div>
                                                     </div>
@@ -85,10 +85,8 @@
                                                             Sample Biking Tours
                                                         </a>
                                                         <div class="dropdown-menu">
-                                                                <a href="/cultural_tour" class="p-1">Cultural Tours</a>
-                                                                <a href="/trekking_tour" class="p-1">Trekking Tours</a>
-                                                                <a href="/biking_tour" class="p-1">Biking Tours</a>
-                                                                <a href="/cycling_tour" class="p-1">Cycling Tours</a>
+                                                                <a href="/biking_paro" class="p-1">Thimphu To Paro</a>
+                                                                <a href="/biking_punakha" class="p-1">Thimphu To Punakha</a>
                                                                 <!-- Add more package links as needed -->
                                                         </div>
                                                     </div>
@@ -99,10 +97,8 @@
                                                             Cycling Tours
                                                         </a>
                                                         <div class="dropdown-menu">
-                                                                <a href="/cultural_tour" class="p-1">Cultural Tours</a>
-                                                                <a href="/trekking_tour" class="p-1">Trekking Tours</a>
-                                                                <a href="/biking_tour" class="p-1">Biking Tours</a>
-                                                                <a href="/cycling_tour" class="p-1">Cycling Tours</a>
+                                                            <a href="/cycling_paro" class="p-1">Thimphu To Paro</a>
+                                                            <a href="/cycling_punakha" class="p-1">Thimphu To Punakha</a>
                                                         </div>
                                                     </div>
                                                 </li>                                                

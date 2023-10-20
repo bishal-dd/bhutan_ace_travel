@@ -49,14 +49,46 @@ Route::get('/trekking_tour', function () {
     return view('packages/trekking_tour/trekking_tour');
 });
 
+
+Route::get('/dagala_trek', function () {
+    return view('packages/trekking_tour/dagala_trek');
+});
+
+Route::get('/drukpath_trek', function () {
+    return view('packages/trekking_tour/drukpath_trek');
+});
+
+Route::get('/jomo_trek', function () {
+    return view('packages/trekking_tour/jomo_trek');
+});
+
+Route::get('/laya_trek', function () {
+    return view('packages/trekking_tour/laya_trek');
+});
+
 Route::get('/biking_tour', function () {
     return view('packages/biking_tour/biking_tour');
+});
+
+Route::get('/biking_paro', function () {
+    return view('packages/biking_tour/biking_paro');
+});
+
+Route::get('/biking_punakha', function () {
+    return view('packages/biking_tour/biking_punakha');
 });
 
 Route::get('/cycling_tour', function () {
     return view('packages/cycling_tour/cycling_tour');
 });
 
+Route::get('/cycling_punakha', function () {
+    return view('packages/cycling_tour/cycling_punakha');
+});
+
+Route::get('/cycling_paro', function () {
+    return view('packages/cycling_tour/cycling_paro');
+});
 Route::get('/travel_info', function () {
     return view('travel_info');
 });
