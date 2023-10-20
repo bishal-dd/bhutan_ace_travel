@@ -19,64 +19,90 @@
 </div>
 <!-- slider Area End-->
 <div class="text-center p-5">
-    <h2 class="mt-3">About Bhutan Ace Travel</h2>
+    <h2 class="mt-3">Visa to Bhutan</h2>
 
     <p class="text-justify mt-5">
-        At Bhutan Ace Travel, we embark on a journey of discovery,
-        where timeless traditions meet breathtaking landscapes.
-        Our mission is to introduce you to the enchanting kingdom of Bhutan,
-        a land shrouded in mystique and nestled in the heart of the Himalayas.
-        We are not just a travel agency; we are your gateway to an extraordinary adventure.
+        The Bhutanese visa process may appear complicated but is actually quite straightforward once you understand the system. Most countries issue visas from their embassies abroad and stamp them in your passport, but not Bhutan. Bhutanese embassies abroad cannot issue Visas for visit to Bhutan. You must apply in advance through a tour operator such as Ace Travel and receive approval before you travel to Bhutan. Once the full payment of your holiday (including a $40 visa fee) has been wire transferred and received in the TCB bank account then only visas are approved by the Immigration Department and Department of Tourism Bhutan (DoT) in Thimphu, which you allowed to enter Bhutan or board the Druk Air flight and Bhutan Airlines.
+The actual visa is stamped on the passport upon arrival in the country, either at Paro airport or (if entering by road) at Phuentsholing. You just need to provide us details as per your passport that should include your name, permanent address, occupation, nationality, date, and place of birth, passport number, more than six months valid and its date and place of issue, and date of expiration. There is no need to send the pictures or sign the visa application at this time. Double-check that the information you send is correct; if there are any discrepancies when you arrive in Bhutan, there will be further delays and complications.
+Except for visitors from India, Bangladesh, and the Maldives, all other visitors to Bhutan need a visa.
+Indian, Bangladeshis, and Maldivian nationals can obtain a visa or entry permit at the port of entry on producing a valid passport with a minimum of 6-month validity (Indian nationals may also use their Voter’s Identity Card (VIC)).
     </p>
 
-    <h2 class="mt-3">Our Story</h2>
+    <h2 class="mt-3">Sustainable Development Fee</h2>
 
     <p class="text-justify mt-5">
-        Founded by a group of passionate travelers who fell in love with the beauty and serenity of Bhutan,
-        Bhutan Ace Travel was born out of a desire to share the magic of this unique destination with the world.
-        Our team consists of seasoned explorers, each with a deep-rooted connection to Bhutan, and together,
-        we have crafted unforgettable experiences for our clients.
+        Children below the age of 5 years are exempted from the SDF. However, the visa application fee of USD 40 is still applicable. For Children between 5 years and below 12 years old, they are required to pay USD 100 per person per night as the SDF. *SDF does not include accommodation, meals, transport and guides.
+    </p>
+    <p class="justify-content-center">
+        <table border="1" align="center" cellpadding="20">
+            <thead>
+                <tr style="background-color: rgb(52, 136, 52)">
+                    <th>Age</th>
+                    <th>SDF</th>
+                    <th>Permit( Indian Password)</th>
 
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                        <td>0- 5 years old</td>
+                        <td>NA</td>
+                        <td rowspan="3">1200 INR/ night</td>
+                </tr>
+                <tr>
+                    <td>5 – 12 years old</td>
+                    <td>$ 50 USD/night</td>
+                </tr>
+                <tr>
+                    <td>Adult above 12 years old</td>
+                    <td>$100 USD/night</td>
+                </tr>
+            </tbody>
+        </table>
     </p>
 
-    <h2 class="mt-3">Why Bhutan Ace Travel?</h2>
+    <h2 class="mt-3">The minimum daily package covers the following services.</h2>
 
-    <p class="text-justify mt-5">
-        <b>1. Bhutan Experts:</b>  Our team comprises experts who are not only well-versed in travel but also deeply knowledgeable about Bhutan's culture, history, and geography.
-        We take pride in offering authentic experiences that allow you to immerse yourself in Bhutan's rich heritage.
-    </p>
-    <p class="text-justify mt-5">
-        <b>2. Tailored Journeys: </b>  We understand that every traveler is unique. That's why we customize every aspect of your journey to
-        suit your preferences, from selecting the best accommodations to curating an itinerary that matches your interests.
-    </p>
-    <p class="text-justify mt-5">
-        <b>3. Sustainable Tourism: </b>  Bhutan is renowned for its commitment to sustainability and environmental preservation. At Bhutan Ace Travel, we share this ethos and
-        prioritize eco-friendly travel practices. We strive to minimize our ecological footprint and support local communities.
-    </p>
-    <p class="text-justify mt-5">
-        <b>4. Unparalleled Service: </b>  Your comfort and satisfaction are our top priorities.
-        Our dedicated team is available 24/7 to ensure your journey is seamless and stress-free.
-        From the moment you arrive in Bhutan until your departure, we've got you covered.
-    </p>
-    <p class="text-justify mt-5">
-        <b>5. Memorable Experiences:</b>  We believe in creating moments that last a lifetime. Whether it's trekking through pristine landscapes, engaging with local communities,
-        or witnessing breathtaking festivals, our itineraries are designed to leave you with cherished memories.
-    </p>
-
-    <h2 class="mt-3">Our Commitment</h2>
-
-    <p class="text-justify mt-5">
-        At Bhutan Ace Travel, we don't just offer tours; we create memories that linger in your heart forever. Our commitment to excellence, sustainability, and cultural immersion sets us apart. We invite you to embark on a transformative journey with us, where the past meets the present, and every moment is a new discovery.
+    <p class="text-justify">
+        <b>1.</b>  A minimum of 3-star accommodation (4 & 5 stars may require an additional premium).
     </p>
     <p class="text-justify">
-        Join us in exploring Bhutan, the Land of the Thunder Dragon, and let Bhutan Ace Travel be your trusted companion on this incredible voyage.<br>
+        <b>2. </b> All meals
     </p>
     <p class="text-justify">
-        Experience Bhutan with Bhutan Ace Travel and let the adventure begin.
+        <b>3.</b>  A licensed Bhutanese tour guide for the extent of your stay
+    </p>
+    <p class="text-justify">
+        <b>4.</b>  All internal transport (excluding internal flights)
+    </p>
+    <p class="text-justify">
+        <b>Camping equipment and haulage for trekking tours also include:</b>
+    </p>
+    <p class="text-justify">
+        <b>1.</b>  All internal taxes and charges
+    </p>
+    <p class="text-justify">
+        <b>2.</b>  A sustainable development fee of $100.
     </p>
 
+    <p class="text-justify">
+        <b>This sustainable development fee goes towards free education, free healthcare, poverty alleviation, along 
+            with the building of infrastructure. Please feel free to contact us: +975-77 20 16 25</b>
+    </p>
 
+    <h2 class="mt-3">Terms & Conditions</h2>
 
+    <p class="text-justify mt-5">
+        ✅ Cost includes: Bhutan visa/permit. Sustainable Development Fee. English-speaking guide. Breakfast, lunch, dinner. Accommodation in 3★ hotels on double/twin sharing basis. Transportation in a comfortable vehicle with a driver. Entrance fees as per program. Photoshoot in Bhutanese dress.
+    </p>
+    <p class="text-justify">
+        ❎ Cost excludes: International flight tickets. Drinks other than tea and coffee. Optional activities. Tips, personal expenses and other unexpected expenses. Additional bank transfer fees or card payment fee.    </p>
+    <p class="text-justify">
+        🎁 Complimentary from Ace Travel: Map of Bhutan given on arrival. Bottled water provided in the vehicle. Local SIM card with balance for data and call. 
+    </p>
+    <p class="text-justify">
+        🛌 Single room supplement: Odd participants needs to pay extra for single room arrangements.
+    </p>
 </div>
 
 @include('shared.footer')

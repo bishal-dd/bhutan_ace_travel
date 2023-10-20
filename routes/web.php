@@ -60,3 +60,11 @@ Route::get('/cycling_tour', function () {
 Route::get('/travel_info', function () {
     return view('travel_info');
 });
+
+Route::get('/booking', function () {
+    return view('booking');
+});
+
+Route::get('/ticketing', function () {
+    return view('ticketing');
+});

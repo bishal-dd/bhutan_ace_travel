@@ -230,6 +230,13 @@
                             </div>
                         </div>
                     </aside>
+                    <aside class="single_sidebar_widget newsletter_widget">
+                        <h4 class="widget_title">Booking Process</h4>
+                           <a href="/booking" class="button rounded-0 w-100 text-white btn_1 boxed-btn"
+                               >
+                              How to Book
+                            </a>
+                     </aside>
                 </div>
             </div>
         </div>

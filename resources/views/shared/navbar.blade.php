@@ -108,6 +108,15 @@
                                                 </li>                                                
                                             </ul>
                                         </li>
+                                        <li class="dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                                Companies 
+                                            </a>
+                                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                              <a class="dropdown-item p-1" href="/ticketing">Ace Travel Ticketing</a>
+                                            </div>
+                                        </li>
+                                        <li><a href="/booking">Booking Process</a></li>
                                         <li><a href="/contact">Contact Us</a></li>
                                     </ul>
                                 </nav>

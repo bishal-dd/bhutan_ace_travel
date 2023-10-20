@@ -1,6 +1,6 @@
 <footer>
     <!-- Footer Start-->
-    <div class="footer-area footer-padding footer-bg" data-background="assets/img/service/footer_bg.jpg">
+    <div class="footer-area footer-padding footer-bg" data-background="{{ asset('assets/img/service/footer_bg.webp') }}">
         <div class="container">
             <div class="row d-flex justify-content-between">
                 <div class="col-xl-3 col-lg-3 col-md-5 col-sm-6">
