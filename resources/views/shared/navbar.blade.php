@@ -86,7 +86,7 @@
                                                         </a>
                                                         <div class="dropdown-menu">
                                                                 <a href="/biking_paro" class="p-1">Biking</a>
-                                                                <a href="/biking_punakha" class="p-1">Thimphu To Punakha</a>
+                                                                {{-- <a href="/biking_punakha" class="p-1">Thimphu To Punakha</a> --}}
                                                                 <!-- Add more package links as needed -->
                                                         </div>
                                                     </div>
@@ -97,8 +97,8 @@
                                                             Cycling Tours
                                                         </a>
                                                         <div class="dropdown-menu">
-                                                            <a href="/cycling_paro" class="p-1">Thimphu To Paro</a>
-                                                            <a href="/cycling_punakha" class="p-1">Thimphu To Punakha</a>
+                                                            <a href="/cycling_paro" class="p-1"></a>
+                                                            {{-- <a href="/cycling_punakha" class="p-1">Thimphu To Punakha</a> --}}
                                                         </div>
                                                     </div>
                                                 </li>                                                

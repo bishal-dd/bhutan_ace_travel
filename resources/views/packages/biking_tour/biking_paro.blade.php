@@ -10,7 +10,7 @@
             <div class="row">
                 <div class="col-xl-12">
                     <div class="hero-cap text-center">
-                        <h2>Biking: Thimphu To Paro</h2>
+                        <h2>Biking</h2>
                     </div>
                 </div>
             </div>
@@ -29,24 +29,18 @@
                     </div>
                     <div class="blog_details">
                         <h2>
-                            Biking: Thimphu To Paro
+                            Biking
                         </h2>
                         <ul class="blog-info-link mt-3 mb-4">
                             <li><a href="#"><i class="fa fa-user"></i> Travel</a></li>
                         </ul>
                         <p class="excert text-justify">
-                            Nestled high in the Eastern Himalayas, Bhutan is a land like no other, a time-honored realm where tradition and tranquility harmoniously coexist.
-                            Known as the "Land of the Thunder Dragon," this mystical kingdom is a sanctuary of untouched natural beauty, rich
-                            cultural heritage, and profound spirituality. As you embark on a journey into the heart of Bhutan, you'll discover
-                            a land that seems to have been plucked from the pages of a fairy tale,
-                            where every hillside whispers stories of ancient legends and where happiness is not merely a goal but a way of life.
+                            Biking in Bhutan is a thrilling and unique adventure that allows enthusiasts to explore the breathtaking landscapes and vibrant culture of the Land of the Thunder Dragon on two wheels.
+                            Bhutan offers a diverse range of landscapes, from lush valleys and terraced fields to dense forests and high mountain passes. Biking in Bhutan means traversing through this natural tapestry, taking in the sights of pristine rivers, pristine lakes, and the soaring Himalayan peaks.
                         </p>
                         <p class="text-justify">
-                            Bhutan's pristine landscapes encompass some of the most awe-inspiring terrain in the world. From the lush,
-                            subtropical forests of the south to the towering peaks and glaciers of the north, Bhutan offers a breathtaking
-                            panorama of ecological diversity. Towering mountains, including the legendary Gangkhar Puensum, the world's
-                            highest unclimbed peak, are punctuated by pristine rivers and valleys.
-                            The landscapes provide not only stunning vistas but also opportunities for hiking, trekking, and adventure.
+                            One of the distinctive aspects of biking in Bhutan is the opportunity to engage with its rich cultural heritage. Cyclists can visit ancient monasteries, fortresses (known as dzongs), and remote villages. This cultural immersion provides insight into Bhutan's unique customs, traditions, and its deep-rooted Buddhist way of life.
+                            Bhutan's terrain caters to a variety of biking experiences. While some routes are relatively gentle and suitable for beginners, others offer more challenging trails with steep ascents and descents. The country's high-altitude landscapes also provide an excellent opportunity for those seeking a bit of mountain biking adventure.
                         </p>
                     </div>
                 </div>
@@ -66,37 +60,37 @@
                                 <!-- Itinerary Content Goes Here -->
                                 <h3>Day 1.</h3>
                                 <p class="text-justify">
-                                    Morning arrival by plane to Paro airport. Drive to Thimphu with stop at Tachog lhakhang to see
-                                    traditional bridge made using ancient iron chains. After reaching capital, drive to the gigantic Buddha
-                                    Dordenma statue overlooking Thimphu town. Then drop to Changlimithang stadium to see the archery,
-                                    traditional sport of Bhutan. Matches are going on from the morning to the evening! Continue to central
-                                    Clock Tower square and walk in Norzin lam street and see the traffic police signaling in junctions.
-                                    Thimphu is only capital in the world without the traffic lights. Finish walk at handicraft market where
-                                    many interesting Bhutanese souvenirs can be seen and bought for reasonable price. Late afternoon visit
-                                    to monumental Tashichho dzong castle, the seat of the king and government. Overnight at Thimphu.
+                                    Upon arriving in Paro, Bhutan at an altitude of 2280 meters, you'll be welcomed by your guide. Acclimate to the altitude, savor Bhutanese cuisine, and explore Rinpung Dzong and Ta Dzong.
                                 </p>
                                 <h3>Day 2.</h3>
                                 <p class="text-justify">
-                                    Drive to Paro Hike to Taktsang gomba (The Tiger’s Nest) is the absolute highlight of the tour! While the
-                                    climb seems to be hard, it’s very rewarding. If you don’t feel so strong, you can cut it short in cafeteria
-                                    with nice view of the temple. If you have spare strength, you might hike up to Zangtopelri Lhakhang to
-                                    get birds-eye view of Tiger&#39;s Nest! You can consider hiking in the morning or early afternoon depending
-                                    on weather, your fitness, and preferences. Also visit of the National Museum in Ta dzong, the
-                                    watchtower protecting the Paro castle from intruders. Then descend to Rinpung dzong or “The castle on
-                                    the heap of jewels”. Inside are local government offices and monastery. Scenes from famous Little
-                                    Buddha film was shot here. Walk down to the old traditional bridge below the Paro Dzong. Here, you
-                                    will have opportunity to try Bhutanese dress and take a beautiful photo with castle in the background!
-                                    Continue to Paro airport viewpoint. Depending on schedule, you might see planes landing and taking off.
-                                    Runway in Paro is famed as one of the most demanding of all World&#39;s International airports. Enjoy the
-                                    last evening in Bhutan! Optionally the mask dance performance along with traditional dinner in the local
-                                    farmhouse can be arranged.
+                                    Explore Thimphu, visiting the impressive Dordenma Buddha statue, Chorten National Monument, Thimphu Dzong, and the Academy of Zorig Chusum.
+                                    
                                 </p>
                                 <h3>Day 3.</h3>
                                 <p class="text-justify">
-                                    If time permits, you can drive to Drukyel dzong to see a freshly reconstructed castle and the summit of
-                                    holy Jomolhari mountain in clear weather. After that, you depart from Paro by flight or take 5 hours’
-                                    drive to land border in Phuntsholing.
+                                    Travel to Punakha via Dochula Pass, visit Chhimi Lhakhang, Punakha Dzong, and Khamsum Yulley Namgyal Chorten.
                                 </p>
+                                <h3>Day 4.</h3>
+                                <p class="text-justify">
+                                    Venture to Gangtey and explore the Phobjikha valley, renowned for the Black-necked Crane. Return to Punakha.
+                                </p>
+                                <h3>Day 5.</h3>
+                                <p class="text-justify">
+                                    Visit the Heritage Museum, the paper factory, and the textile museum in Thimphu. En route, witness Bhutan's national animal, the Takin, and Simtokha Dzong.
+                                </p>
+                                <h3>Day 6.</h3>
+                                <p class="text-justify">
+                                    Drive to Haa via Chele La, with panoramic views of Paro and Haa Valleys. Visit Katsho village and Katso Lhakhang, then return to Paro.
+                                </p>
+                                <h3>Day 7.</h3>
+                                <p class="text-justify">
+                                    Enjoy a hike to the Dining Hall for a view of Taktsang Monastery. Visit Kyichu Lhakhang, one of Bhutan's oldest temples.
+                                 </p>
+                                <h3>Day 8.</h3>
+                                <p class="text-justify">
+                                    Depart from Paro, concluding your memorable journey through Bhutan.
+                                 </p>
                                 <!-- Add more itinerary details as needed -->
                             </div>
                             <div id="included" class="container tab-pane fade">

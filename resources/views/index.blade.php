@@ -192,7 +192,7 @@
                             </div>
                             <div class="blog-cap">
                                 <p> |   Traveling</p>
-                                <h3><a href="/cycling_tour">Cycling Tours For Serene Exploration</a></h3>
+                                <h3><a href="/cycling_paro">Cycling Tours For Serene Exploration</a></h3>
                                 <a href="/cycling_tour" class="more-btn">Read more »</a>
                             </div>
                         </div>
