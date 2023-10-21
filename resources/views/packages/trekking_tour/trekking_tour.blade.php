@@ -36,16 +36,16 @@
             <div class="col-xl-4 col-lg-4 col-md-6">
                 <div class="single-place mb-30">
                     <div class="place-img">
-                        <img src="{{asset("assets/img/cultural_3day.webp")}}" height="250" alt="">
+                        <img src="{{asset("assets/img/dagala.webp")}}" height="250" alt="">
                     </div>
                     <div class="place-cap">
                         <div class="place-cap-top">
                             <span><i class="fas fa-star"></i><span>8.0 Superb</span> </span>
-                            <h3><a href="/cultural_3day">Bhutan Bliss: A 3-Day Himalayan Adventure</a></h3>
+                            <h3><a href="/dagala_trek">Dagala Trek</a></h3>
                         </div>
                         <div class="place-cap-bottom">
                             <ul>
-                                <li><i class="far fa-clock"></i>3 Days</li>
+                                <li><i class="far fa-clock"></i>10 Days</li>
                                 <li><i class="fas fa-map-marker-alt"></i>Bhutan</li>
                             </ul>
                         </div>
@@ -55,16 +55,16 @@
             <div class="col-xl-4 col-lg-4 col-md-6">
                 <div class="single-place mb-30">
                     <div class="place-img">
-                        <img src="{{asset("assets/img/cultural_5day.webp")}}"  height="250" alt="">
+                        <img src="{{asset("assets/img/drukpath_trek.webp")}}"  height="250" alt="">
                     </div>
                     <div class="place-cap">
                         <div class="place-cap-top">
                             <span><i class="fas fa-star"></i><span>8.0 Superb</span> </span>
-                            <h3><a href="/cultural_5day">Bhutan Unveiled: A 5-Day Himalayan Odyssey</a></h3>
+                            <h3><a href="/drukpath_trek">Druk Path Trek</a></h3>
                         </div>
                         <div class="place-cap-bottom">
                             <ul>
-                                <li><i class="far fa-clock"></i>5 Days</li>
+                                <li><i class="far fa-clock"></i>11 Days</li>
                                 <li><i class="fas fa-map-marker-alt"></i>Bhutan</li>
                             </ul>
                         </div>
@@ -74,16 +74,16 @@
             <div class="col-xl-4 col-lg-4 col-md-6">
                 <div class="single-place mb-30">
                     <div class="place-img">
-                        <img src="{{asset("assets/img/cultural_6day.webp")}}" height="250" alt="">
+                        <img src="{{asset("assets/img/jomo_trek.webp")}}" height="250" alt="">
                     </div>
                     <div class="place-cap">
                         <div class="place-cap-top">
                             <span><i class="fas fa-star"></i><span>8.0 Superb</span> </span>
-                            <h3><a href="/cultural_6day">Bhutan Expedition: A 6-Day Himalayan Journey</a></h3>
+                            <h3><a href="/jomo_trek">Jomolhari Trek</a></h3>
                         </div>
                         <div class="place-cap-bottom">
                             <ul>
-                                <li><i class="far fa-clock"></i>6 Days</li>
+                                <li><i class="far fa-clock"></i>11 Days</li>
                                 <li><i class="fas fa-map-marker-alt"></i>Bhutan</li>
                             </ul>
                         </div>
@@ -93,16 +93,16 @@
             <div class="col-xl-4 col-lg-4 col-md-6">
                 <div class="single-place mb-30">
                     <div class="place-img">
-                        <img src="{{asset("assets/img/cultural_7day.webp")}}"  height="250" alt="">
+                        <img src="{{asset("assets/img/laya.webp")}}"  height="250" alt="">
                     </div>
                     <div class="place-cap">
                         <div class="place-cap-top">
                             <span><i class="fas fa-star"></i><span>8.0 Superb</span> </span>
-                            <h3><a href="/cultural_7day">Bhutan Beyond: A 7-Day Journey Through the Himalayas</a></h3>
+                            <h3><a href="/laya_trek">Laya-Gasa Trek</a></h3>
                         </div>
                         <div class="place-cap-bottom">
                             <ul>
-                                <li><i class="far fa-clock"></i>7 Days</li>
+                                <li><i class="far fa-clock"></i>18 Days</li>
                                 <li><i class="fas fa-map-marker-alt"></i>Bhutan</li>
                             </ul>
                         </div>

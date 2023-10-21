@@ -10,7 +10,7 @@
             <div class="row">
                 <div class="col-xl-12">
                     <div class="hero-cap text-center">
-                        <h2>Bhutan Bliss: A 3-Day Himalayan Adventure</h2>
+                        <h2>Cycling: Thimphu To Punakha</h2>
                     </div>
                 </div>
             </div>
@@ -25,11 +25,11 @@
             <div class="col-lg-8 posts-list">
                 <div class="single-post">
                     <div class="feature-img">
-                        <img class="img-fluid" src="{{asset("assets/img/cultural_3day.webp")}}" alt="">
+                        <img class="img-fluid" src="{{asset("assets/img/thimphu_punakha_cycling.webp")}}" alt="">
                     </div>
                     <div class="blog_details">
                         <h2>
-                            Bhutan Bliss: A 3-Day Himalayan Adventure
+                            Cycling: Thimphu To Punakha
                         </h2>
                         <ul class="blog-info-link mt-3 mb-4">
                             <li><a href="#"><i class="fa fa-user"></i> Travel</a></li>

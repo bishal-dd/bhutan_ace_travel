@@ -170,11 +170,11 @@
                     <div class="home-blog-single mb-30">
                         <div class="blog-img-cap">
                             <div class="blog-img">
-                                <img src="{{asset("assets/img/biking_tour.webp")}}" alt="">
+                                <img src="{{asset("assets/img/biking_tour.webp")}}" height="350" alt="">
                             </div>
                             <div class="blog-cap">
                                 <p> |   Traveling</p>
-                                <h3><a href="/biking_tour">Biking Tours For Thrilling Adventures</a></h3>
+                                <h3><a href="/biking_paro">Biking Tours For Thrilling Adventures</a></h3>
                                 <a href="/biking_tour" class="more-btn">Read more »</a>
                             </div>
                         </div>

@@ -10,7 +10,7 @@
             <div class="row">
                 <div class="col-xl-12">
                     <div class="hero-cap text-center">
-                        <h2>Bhutan Bliss: A 3-Day Himalayan Adventure</h2>
+                        <h2>Druk Path Trek</h2>
                     </div>
                 </div>
             </div>
@@ -25,28 +25,21 @@
             <div class="col-lg-8 posts-list">
                 <div class="single-post">
                     <div class="feature-img">
-                        <img class="img-fluid" src="{{asset("assets/img/cultural_3day.webp")}}" alt="">
+                        <img class="img-fluid" src="{{asset("assets/img/drukpath_trek.webp")}}" alt="">
                     </div>
                     <div class="blog_details">
                         <h2>
-                            Bhutan Bliss: A 3-Day Himalayan Adventure
+                            Druk Path Trek
                         </h2>
                         <ul class="blog-info-link mt-3 mb-4">
                             <li><a href="#"><i class="fa fa-user"></i> Travel</a></li>
                         </ul>
                         <p class="excert text-justify">
-                            Nestled high in the Eastern Himalayas, Bhutan is a land like no other, a time-honored realm where tradition and tranquility harmoniously coexist.
-                            Known as the "Land of the Thunder Dragon," this mystical kingdom is a sanctuary of untouched natural beauty, rich
-                            cultural heritage, and profound spirituality. As you embark on a journey into the heart of Bhutan, you'll discover
-                            a land that seems to have been plucked from the pages of a fairy tale,
-                            where every hillside whispers stories of ancient legends and where happiness is not merely a goal but a way of life.
+                            The Druk Path Trek is a popular choice for those looking to explore the beauty of Bhutan's Himalayan landscapes without committing to an extended trekking expedition. This trek typically spans about six days, covering a distance of approximately 55 kilometers, and it connects Paro and Thimphu, two of Bhutan's most significant cities. While the trek is relatively short, it offers a diverse range of experiences, from lush forests and alpine meadows to serene lakes and ancient monasteries.
                         </p>
                         <p class="text-justify">
-                            Bhutan's pristine landscapes encompass some of the most awe-inspiring terrain in the world. From the lush,
-                            subtropical forests of the south to the towering peaks and glaciers of the north, Bhutan offers a breathtaking
-                            panorama of ecological diversity. Towering mountains, including the legendary Gangkhar Puensum, the world's
-                            highest unclimbed peak, are punctuated by pristine rivers and valleys.
-                            The landscapes provide not only stunning vistas but also opportunities for hiking, trekking, and adventure.
+                            The trek offers breathtaking views of the Himalayan mountain range, including iconic peaks like Mount Jomolhari and Mount Gangkar Puensum. Trekkers will be treated to vistas of dense forests, cascading waterfalls, and pristine alpine lakes, creating a photographer's paradise.
+                            The Druk Path Trek also features visits to significant monastic sites, including the famous Taktsang Monastery, also known as the Tiger's Nest. This iconic cliffside monastery is a spiritual and architectural marvel.
                         </p>
                     </div>
                 </div>
@@ -66,36 +59,47 @@
                                 <!-- Itinerary Content Goes Here -->
                                 <h3>Day 1.</h3>
                                 <p class="text-justify">
-                                    Morning arrival by plane to Paro airport. Drive to Thimphu with stop at Tachog lhakhang to see
-                                    traditional bridge made using ancient iron chains. After reaching capital, drive to the gigantic Buddha
-                                    Dordenma statue overlooking Thimphu town. Then drop to Changlimithang stadium to see the archery,
-                                    traditional sport of Bhutan. Matches are going on from the morning to the evening! Continue to central
-                                    Clock Tower square and walk in Norzin lam street and see the traffic police signaling in junctions.
-                                    Thimphu is only capital in the world without the traffic lights. Finish walk at handicraft market where
-                                    many interesting Bhutanese souvenirs can be seen and bought for reasonable price. Late afternoon visit
-                                    to monumental Tashichho dzong castle, the seat of the king and government. Overnight at Thimphu.
+                                    You'll arrive in Paro and have the opportunity to explore the area at an altitude of 2200 meters.
                                 </p>
                                 <h3>Day 2.</h3>
                                 <p class="text-justify">
-                                    Drive to Paro Hike to Taktsang gomba (The Tiger’s Nest) is the absolute highlight of the tour! While the
-                                    climb seems to be hard, it’s very rewarding. If you don’t feel so strong, you can cut it short in cafeteria
-                                    with nice view of the temple. If you have spare strength, you might hike up to Zangtopelri Lhakhang to
-                                    get birds-eye view of Tiger&#39;s Nest! You can consider hiking in the morning or early afternoon depending
-                                    on weather, your fitness, and preferences. Also visit of the National Museum in Ta dzong, the
-                                    watchtower protecting the Paro castle from intruders. Then descend to Rinpung dzong or “The castle on
-                                    the heap of jewels”. Inside are local government offices and monastery. Scenes from famous Little
-                                    Buddha film was shot here. Walk down to the old traditional bridge below the Paro Dzong. Here, you
-                                    will have opportunity to try Bhutanese dress and take a beautiful photo with castle in the background!
-                                    Continue to Paro airport viewpoint. Depending on schedule, you might see planes landing and taking off.
-                                    Runway in Paro is famed as one of the most demanding of all World&#39;s International airports. Enjoy the
-                                    last evening in Bhutan! Optionally the mask dance performance along with traditional dinner in the local
-                                    farmhouse can be arranged.
+                                    The day will be dedicated to a 7-kilometer hike to the iconic Tiger's Nest (Taktsang) Monastery, taking approximately 4 hours to complete.
                                 </p>
                                 <h3>Day 3.</h3>
                                 <p class="text-justify">
-                                    If time permits, you can drive to Drukyel dzong to see a freshly reconstructed castle and the summit of
-                                    holy Jomolhari mountain in clear weather. After that, you depart from Paro by flight or take 5 hours’
-                                    drive to land border in Phuntsholing.
+                                    Your journey officially begins as you set out from Paro to Jele Dzong, marking the start of the Druk Path trek itinerary. This leg of the trek spans 10 kilometers and should take 4 to 5 hours to reach an altitude of 3560 meters.
+                                </p>
+                                <h3>Day 4.</h3>
+                                <p class="text-justify">
+                                    You'll trek from Jele Dzong to Jangchulakha, covering a distance of 10 kilometers in approximately 3 to 4 hours, reaching an altitude of 3770 meters.
+                                </p>
+                                <h3>Day 5.</h3>
+                                <p class="text-justify">
+                                    The trek continues from Jangchulakha to Jimilangtso, a distance of 11 kilometers that should take around 4 hours, with an altitude of 3870 meters.
+                                </p>
+                                <h3>Day 6.</h3>
+                                <p class="text-justify">
+                                    You'll hike from Jimilangtso to Simkota, covering 11 kilometers in about 4 hours, reaching an altitude of 4110 meters.
+                                </p>
+                                <h3>Day 7.</h3>
+                                <p class="text-justify">
+                                    The trek leads from Simkota to Phajoding and ultimately to Thimphu, marking the end of the Druk Path trek itinerary. This stretch of the journey covers 15 kilometers and takes approximately 6 to 7 hours, bringing you to an altitude of 2334 meters.
+                                 </p>
+                                <h3>Day 8.</h3>
+                                <p class="text-justify">
+                                    You'll spend the day exploring Thimphu at an altitude of 2334 meters.
+                                 </p>
+                                <h3>Day 9.</h3>
+                                <p class="text-justify">
+                                    Leaving Thimphu, you'll embark on a 76-kilometer drive to Punakha and enjoy some sightseeing activities along the way. The drive is expected to take about 2 hours, with an altitude of 1242 meters.
+                                  </p>
+                                <h3>Day 10.</h3>
+                                <p class="text-justify">
+                                    Continuing your journey, you'll drive from Punakha to Wangdue Phodrang, and then return to Thimphu. This day involves covering a distance of 90 kilometers and is expected to take approximately 4 hours, with an altitude of 2334 meters.
+                                </p>
+                                <h3>Day 11.</h3>
+                                <p class="text-justify">
+                                    Your Bhutan adventure concludes as you leave Thimphu and drive 54 kilometers to Paro, which should take around 1 hour.
                                 </p>
                                 <!-- Add more itinerary details as needed -->
                             </div>

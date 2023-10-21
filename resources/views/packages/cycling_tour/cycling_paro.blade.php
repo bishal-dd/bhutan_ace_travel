@@ -25,7 +25,7 @@
             <div class="col-lg-8 posts-list">
                 <div class="single-post">
                     <div class="feature-img">
-                        <img class="img-fluid" src="{{asset("assets/img/cultural_3day.webp")}}" alt="">
+                        <img class="img-fluid" src="{{asset("assets/img/thimphu_paro_cycling.webp")}}" alt="">
                     </div>
                     <div class="blog_details">
                         <h2>

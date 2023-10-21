@@ -71,10 +71,10 @@
                                                             Sample Trekking Tours
                                                         </a>
                                                         <div class="dropdown-menu">
-                                                                <a href="/dagala_trek" class="p-1">Dagala Trek - 5 days</a>
-                                                                <a href="/drukpath_trek" class="p-1">Drukpath Trek - 5 days</a>
-                                                                <a href="/jomo_trek" class="p-1">Jomolhari Trek - 7 days</a>
-                                                                <a href="/laya_trek" class="p-1">Laya-Gasa Trek - 12 days</a>
+                                                                <a href="/dagala_trek" class="p-1">Dagala Trek</a>
+                                                                <a href="/drukpath_trek" class="p-1">Drukpath Trek</a>
+                                                                <a href="/jomo_trek" class="p-1">Jomolhari Trek</a>
+                                                                <a href="/laya_trek" class="p-1">Laya-Gasa Trek</a>
                                                                 <!-- Add more package links as needed -->
                                                         </div>
                                                     </div>
@@ -85,7 +85,7 @@
                                                             Sample Biking Tours
                                                         </a>
                                                         <div class="dropdown-menu">
-                                                                <a href="/biking_paro" class="p-1">Thimphu To Paro</a>
+                                                                <a href="/biking_paro" class="p-1">Biking</a>
                                                                 <a href="/biking_punakha" class="p-1">Thimphu To Punakha</a>
                                                                 <!-- Add more package links as needed -->
                                                         </div>

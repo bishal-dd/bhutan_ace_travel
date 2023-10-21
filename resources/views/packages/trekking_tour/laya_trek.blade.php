@@ -10,7 +10,7 @@
             <div class="row">
                 <div class="col-xl-12">
                     <div class="hero-cap text-center">
-                        <h2>Bhutan Bliss: A 3-Day Himalayan Adventure</h2>
+                        <h2> Laya Gasa Trek</h2>
                     </div>
                 </div>
             </div>
@@ -25,28 +25,22 @@
             <div class="col-lg-8 posts-list">
                 <div class="single-post">
                     <div class="feature-img">
-                        <img class="img-fluid" src="{{asset("assets/img/cultural_3day.webp")}}" alt="">
+                        <img class="img-fluid" src="{{asset("assets/img/laya.webp")}}" alt="">
                     </div>
                     <div class="blog_details">
                         <h2>
-                            Bhutan Bliss: A 3-Day Himalayan Adventure
+                            Laya Gasa Trek
                         </h2>
                         <ul class="blog-info-link mt-3 mb-4">
                             <li><a href="#"><i class="fa fa-user"></i> Travel</a></li>
                         </ul>
                         <p class="excert text-justify">
-                            Nestled high in the Eastern Himalayas, Bhutan is a land like no other, a time-honored realm where tradition and tranquility harmoniously coexist.
-                            Known as the "Land of the Thunder Dragon," this mystical kingdom is a sanctuary of untouched natural beauty, rich
-                            cultural heritage, and profound spirituality. As you embark on a journey into the heart of Bhutan, you'll discover
-                            a land that seems to have been plucked from the pages of a fairy tale,
-                            where every hillside whispers stories of ancient legends and where happiness is not merely a goal but a way of life.
+                            The Laya Gasa Trek is an extraordinary and challenging high-altitude trek that winds through the remote and picturesque landscapes of Bhutan. Renowned for its pristine wilderness and cultural encounters, this trek is a thrilling adventure for those seeking to explore the Himalayan kingdom's natural beauty and its unique way of life.
                         </p>
                         <p class="text-justify">
-                            Bhutan's pristine landscapes encompass some of the most awe-inspiring terrain in the world. From the lush,
-                            subtropical forests of the south to the towering peaks and glaciers of the north, Bhutan offers a breathtaking
-                            panorama of ecological diversity. Towering mountains, including the legendary Gangkhar Puensum, the world's
-                            highest unclimbed peak, are punctuated by pristine rivers and valleys.
-                            The landscapes provide not only stunning vistas but also opportunities for hiking, trekking, and adventure.
+                            The trek offers spectacular views of snow-capped peaks, including Mount Gangkar Puensum, the world's highest unclimbed mountain. You'll traverse lush forests, serene alpine lakes, and sprawling meadows.
+                            Along the journey, you'll have the opportunity to interact with the local people, particularly in the villages of Laya and Gasa. These interactions provide insight into the unique traditions and lifestyles of the Bhutanese highlanders.
+                            Gasa is famous for its rejuvenating natural hot springs. After days of trekking, a dip in these thermal springs is a rewarding and relaxing experience.
                         </p>
                     </div>
                 </div>
@@ -66,36 +60,75 @@
                                 <!-- Itinerary Content Goes Here -->
                                 <h3>Day 1.</h3>
                                 <p class="text-justify">
-                                    Morning arrival by plane to Paro airport. Drive to Thimphu with stop at Tachog lhakhang to see
-                                    traditional bridge made using ancient iron chains. After reaching capital, drive to the gigantic Buddha
-                                    Dordenma statue overlooking Thimphu town. Then drop to Changlimithang stadium to see the archery,
-                                    traditional sport of Bhutan. Matches are going on from the morning to the evening! Continue to central
-                                    Clock Tower square and walk in Norzin lam street and see the traffic police signaling in junctions.
-                                    Thimphu is only capital in the world without the traffic lights. Finish walk at handicraft market where
-                                    many interesting Bhutanese souvenirs can be seen and bought for reasonable price. Late afternoon visit
-                                    to monumental Tashichho dzong castle, the seat of the king and government. Overnight at Thimphu.
+                                    Your journey begins with your arrival in Paro, where you'll have the opportunity to engage in sightseeing at an altitude of 2280 meters.
                                 </p>
                                 <h3>Day 2.</h3>
                                 <p class="text-justify">
-                                    Drive to Paro Hike to Taktsang gomba (The Tiger’s Nest) is the absolute highlight of the tour! While the
-                                    climb seems to be hard, it’s very rewarding. If you don’t feel so strong, you can cut it short in cafeteria
-                                    with nice view of the temple. If you have spare strength, you might hike up to Zangtopelri Lhakhang to
-                                    get birds-eye view of Tiger&#39;s Nest! You can consider hiking in the morning or early afternoon depending
-                                    on weather, your fitness, and preferences. Also visit of the National Museum in Ta dzong, the
-                                    watchtower protecting the Paro castle from intruders. Then descend to Rinpung dzong or “The castle on
-                                    the heap of jewels”. Inside are local government offices and monastery. Scenes from famous Little
-                                    Buddha film was shot here. Walk down to the old traditional bridge below the Paro Dzong. Here, you
-                                    will have opportunity to try Bhutanese dress and take a beautiful photo with castle in the background!
-                                    Continue to Paro airport viewpoint. Depending on schedule, you might see planes landing and taking off.
-                                    Runway in Paro is famed as one of the most demanding of all World&#39;s International airports. Enjoy the
-                                    last evening in Bhutan! Optionally the mask dance performance along with traditional dinner in the local
-                                    farmhouse can be arranged.
+                                    On this day, you'll travel from Paro to Taktsang Monastery for a 22-kilometer hike and then proceed to Shana. The drive takes approximately 1 hour, and your altitude will rise to 2820 meters.
                                 </p>
                                 <h3>Day 3.</h3>
                                 <p class="text-justify">
-                                    If time permits, you can drive to Drukyel dzong to see a freshly reconstructed castle and the summit of
-                                    holy Jomolhari mountain in clear weather. After that, you depart from Paro by flight or take 5 hours’
-                                    drive to land border in Phuntsholing.
+                                    The official start of the Laya Gasa Trek begins with a trek from Shana to Thang Thangka, covering 22 kilometers and taking 7 to 8 hours. The altitude increases to 3610 meters.
+                                </p>
+                                <h3>Day 4.</h3>
+                                <p class="text-justify">
+                                    Continuing the trek, you'll journey from Thang Thangka to Jangothang, a distance of 19 kilometers that should take about 5 to 6 hours, with an altitude of 4080 meters.
+                                </p>
+                                <h3>Day 5.</h3>
+                                <p class="text-justify">
+                                    A day of acclimatization and rest at Jangothang, essential for the Laya Gasa Trek's challenges at 4080 meters.
+                                </p>
+                                <h3>Day 6.</h3>
+                                <p class="text-justify">
+                                    The trek proceeds from Jangothang to Lingshi, covering 17 kilometers in about 6 to 7 hours, reaching an altitude of 4000 meters.
+                                </p>
+                                <h3>Day 7.</h3>
+                                <p class="text-justify">
+                                    You'll hike from Lingshi to Chebisa, covering a distance of 10 kilometers in approximately 5 to 6 hours, with an altitude of 3880 meters.
+                                 </p>
+                                <h3>Day 8.</h3>
+                                <p class="text-justify">
+                                    Continuing your journey, you'll proceed from Chebisa to Shomuthang, spanning 17 kilometers and taking 6 to 7 hours, with an altitude of 4220 meters.
+                                 </p>
+                                <h3>Day 9.</h3>
+                                <p class="text-justify">
+                                    The trek takes you from Shomuthang to Robluthang, a distance of 18 kilometers in about 6 to 7 hours, reaching an altitude of 4160 meters.
+                                  </p>
+                                <h3>Day 10.</h3>
+                                <p class="text-justify">
+                                    Your journey proceeds from Robluthang to Lemithang, covering 19 kilometers and taking about 6-7 hours, with an altitude of 4140 meters.
+                                </p>
+                                <h3>Day 11.</h3>
+                                <p class="text-justify">
+                                    You'll trek from Lemithang to Laya, a 10-kilometer journey taking 4-5 hours, with an altitude of 3840 meters.
+                                </p>
+                                <h3>Day 12.</h3>
+                                <p class="text-justify">
+                                    A day of rest and exploration in Laya during the Laya Gasa Trek.
+                                </p>
+                                <h3>Day 13.</h3>
+                                <p class="text-justify">
+                                    The trek continues as you journey from Laya to Koena, covering 19 kilometers and taking about 6-7 hours, with an altitude of 3050 meters.
+                                </p>
+                                <h3>Day 14.</h3>
+                                <p class="text-justify">
+                                    You'll conclude the Laya Gasa Trek as you trek from Koena to Gasa, covering 14 kilometers in approximately 6-7 hours, with an altitude of 2,638 meters.
+                                </p>
+                                <h3>Day 15.</h3>
+                                <p class="text-justify">
+                                    After the trek, you'll travel to Punakha for sightseeing, covering a distance of 78 kilometers and a 3-hour drive, with an altitude of 1242 meters.
+                                </p>
+                                <h3>Day 16.</h3>
+                                <p class="text-justify">
+                                    Continuing your exploration, you'll enjoy more sightseeing in Punakha and then drive to Thimphu, covering 76 kilometers in approximately 2 1/2 hours, with an altitude of 2334 meters.
+                                </p>
+                                <h3>Day 17.</h3>
+                                <p class="text-justify">
+                                    A day dedicated to sightseeing in Thimphu at an altitude of 2334 meters.
+                                </p>
+                                <h3>Day 18.</h3>
+                                <p class="text-justify">
+                                    Your Bhutanese adventure concludes as you leave Thimphu and drive 54 kilometers to Paro, which should take around 1 hour.
                                 </p>
                                 <!-- Add more itinerary details as needed -->
                             </div>

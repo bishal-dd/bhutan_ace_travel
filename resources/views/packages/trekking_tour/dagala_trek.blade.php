@@ -10,7 +10,7 @@
             <div class="row">
                 <div class="col-xl-12">
                     <div class="hero-cap text-center">
-                        <h2>Dagala Trek - 5 Days</h2>
+                        <h2>Dagala Trek</h2>
                     </div>
                 </div>
             </div>
@@ -25,28 +25,20 @@
             <div class="col-lg-8 posts-list">
                 <div class="single-post">
                     <div class="feature-img">
-                        <img class="img-fluid" src="{{asset("assets/img/cultural_3day.webp")}}" alt="">
+                        <img class="img-fluid" src="{{asset("assets/img/dagala.webp")}}" alt="">
                     </div>
                     <div class="blog_details">
                         <h2>
-                            Dagala Trek - 5 Days
+                            Dagala Trek
                         </h2>
                         <ul class="blog-info-link mt-3 mb-4">
                             <li><a href="#"><i class="fa fa-user"></i> Travel</a></li>
                         </ul>
                         <p class="excert text-justify">
-                            Nestled high in the Eastern Himalayas, Bhutan is a land like no other, a time-honored realm where tradition and tranquility harmoniously coexist.
-                            Known as the "Land of the Thunder Dragon," this mystical kingdom is a sanctuary of untouched natural beauty, rich
-                            cultural heritage, and profound spirituality. As you embark on a journey into the heart of Bhutan, you'll discover
-                            a land that seems to have been plucked from the pages of a fairy tale,
-                            where every hillside whispers stories of ancient legends and where happiness is not merely a goal but a way of life.
+                            Dagala Trek is a captivating 5-day trekking adventure in the stunning and serene landscapes of Bhutan. This trek offers a unique opportunity to explore the remote and unspoiled regions of the country, providing an immersive experience in Bhutan's natural beauty and cultural heritage.
                         </p>
                         <p class="text-justify">
-                            Bhutan's pristine landscapes encompass some of the most awe-inspiring terrain in the world. From the lush,
-                            subtropical forests of the south to the towering peaks and glaciers of the north, Bhutan offers a breathtaking
-                            panorama of ecological diversity. Towering mountains, including the legendary Gangkhar Puensum, the world's
-                            highest unclimbed peak, are punctuated by pristine rivers and valleys.
-                            The landscapes provide not only stunning vistas but also opportunities for hiking, trekking, and adventure.
+                            Throughout the Dagala Trek, you'll have the opportunity to witness Bhutan's diverse flora and fauna, from rare bird species to blooming rhododendrons (especially during the spring). The journey is also a cultural experience, with the chance to interact with local communities and learn about Bhutan's unique way of life.
                         </p>
                     </div>
                 </div>
@@ -66,36 +58,42 @@
                                 <!-- Itinerary Content Goes Here -->
                                 <h3>Day 1.</h3>
                                 <p class="text-justify">
-                                    Morning arrival by plane to Paro airport. Drive to Thimphu with stop at Tachog lhakhang to see
-                                    traditional bridge made using ancient iron chains. After reaching capital, drive to the gigantic Buddha
-                                    Dordenma statue overlooking Thimphu town. Then drop to Changlimithang stadium to see the archery,
-                                    traditional sport of Bhutan. Matches are going on from the morning to the evening! Continue to central
-                                    Clock Tower square and walk in Norzin lam street and see the traffic police signaling in junctions.
-                                    Thimphu is only capital in the world without the traffic lights. Finish walk at handicraft market where
-                                    many interesting Bhutanese souvenirs can be seen and bought for reasonable price. Late afternoon visit
-                                    to monumental Tashichho dzong castle, the seat of the king and government. Overnight at Thimphu.
+                                    Upon your arrival in Paro, you'll engage in sightseeing with an elevation of 2280 meters.
                                 </p>
                                 <h3>Day 2.</h3>
                                 <p class="text-justify">
-                                    Drive to Paro Hike to Taktsang gomba (The Tiger’s Nest) is the absolute highlight of the tour! While the
-                                    climb seems to be hard, it’s very rewarding. If you don’t feel so strong, you can cut it short in cafeteria
-                                    with nice view of the temple. If you have spare strength, you might hike up to Zangtopelri Lhakhang to
-                                    get birds-eye view of Tiger&#39;s Nest! You can consider hiking in the morning or early afternoon depending
-                                    on weather, your fitness, and preferences. Also visit of the National Museum in Ta dzong, the
-                                    watchtower protecting the Paro castle from intruders. Then descend to Rinpung dzong or “The castle on
-                                    the heap of jewels”. Inside are local government offices and monastery. Scenes from famous Little
-                                    Buddha film was shot here. Walk down to the old traditional bridge below the Paro Dzong. Here, you
-                                    will have opportunity to try Bhutanese dress and take a beautiful photo with castle in the background!
-                                    Continue to Paro airport viewpoint. Depending on schedule, you might see planes landing and taking off.
-                                    Runway in Paro is famed as one of the most demanding of all World&#39;s International airports. Enjoy the
-                                    last evening in Bhutan! Optionally the mask dance performance along with traditional dinner in the local
-                                    farmhouse can be arranged.
+                                    In Paro, you'll embark on a 7-kilometer hike to the iconic Tiger's Nest Monastery, which will take approximately 4 hours.
                                 </p>
                                 <h3>Day 3.</h3>
                                 <p class="text-justify">
-                                    If time permits, you can drive to Drukyel dzong to see a freshly reconstructed castle and the summit of
-                                    holy Jomolhari mountain in clear weather. After that, you depart from Paro by flight or take 5 hours’
-                                    drive to land border in Phuntsholing.
+                                    The journey continues as you drive 47 kilometers from Paro to Geynekha and then hike for 4 hours to reach Gur, marking the beginning of the Dagala trek in Bhutan, with an elevation of 3290 meters.                                
+                                <h3>Day 4.</h3>
+                                <p class="text-justify">
+                                    Trekking from Gur to Labatamba, covering a distance of 12 kilometers in about 5 hours, you'll reach an altitude of 4300 meters.                           
+                                </p>
+                                <h3>Day 5.</h3>
+                                <p class="text-justify">
+                                    The trail from Labatamba to Panka spans 8 kilometers and takes 6 to 7 hours, with an elevation of 4000 meters.
+                                </p>
+                                <h3>Day 6.</h3>
+                                <p class="text-justify">
+                                    Hiking 8 kilometers from Panka to Talakha for 6 to 7 hours, you'll descend to an altitude of 3080 meters.                                
+                                </p>
+                                <h3>Day 7.</h3>
+                                <p class="text-justify">
+                                    The trek takes you from Talakha to Chamgang and ultimately to Thimphu, marking the end of the Dagala trek in Bhutan. Covering 6 kilometers in about 3 hours, you'll reach an altitude of 2334 meters.                               
+                                 </p>
+                                <h3>Day 8.</h3>
+                                <p class="text-justify">
+                                    You'll have a day of sightseeing in Thimphu at an elevation of 2334 meters.                               
+                                 </p>
+                                <h3>Day 9.</h3>
+                                <p class="text-justify">
+                                    Driving 76 kilometers from Thimphu, you'll explore Punakha and return to Thimphu after approximately 2 1/2 hours.                              
+                                  </p>
+                                <h3>Day 10.</h3>
+                                <p class="text-justify">
+                                    Your journey concludes as you depart from Paro, covering a distance of 54 kilometers in about 1 hour.
                                 </p>
                                 <!-- Add more itinerary details as needed -->
                             </div>

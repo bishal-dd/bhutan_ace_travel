@@ -25,11 +25,11 @@
             <div class="col-lg-8 posts-list">
                 <div class="single-post">
                     <div class="feature-img">
-                        <img class="img-fluid" src="{{asset("assets/img/cultural_3day.webp")}}" alt="">
+                        <img class="img-fluid" src="{{asset("assets/img/thimphu_punakha.webp")}}" alt="">
                     </div>
                     <div class="blog_details">
                         <h2>
-                            Bhutan Bliss: A 3-Day Himalayan Adventure
+                            Biking: Thimphu To Punakha
                         </h2>
                         <ul class="blog-info-link mt-3 mb-4">
                             <li><a href="#"><i class="fa fa-user"></i> Travel</a></li>
