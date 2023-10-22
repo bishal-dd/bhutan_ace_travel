@@ -19,25 +19,36 @@
 </div>
 <!-- slider Area End-->
 <div class="text-center p-5">
-    <h2 class="mt-3">About Bhutan Ace Travel</h2>
 
-    <p class="text-justify mt-5">
-        At Bhutan Ace Travel, we embark on a journey of discovery,
-        where timeless traditions meet breathtaking landscapes.
-        Our mission is to introduce you to the enchanting kingdom of Bhutan,
-        a land shrouded in mystique and nestled in the heart of the Himalayas.
-        We are not just a travel agency; we are your gateway to an extraordinary adventure.
-    </p>
+    <div class="section-top-border text-right">
+        <div class="row">
+            <div class="col-md-8">
+                <h2 class="mt-3 text-center">About Bhutan Ace Travel</h2>
 
-    <h2 class="mt-3">Our Story</h2>
+                <p class="text-justify mt-5">
+                    At Bhutan Ace Travel, we embark on a journey of discovery,
+                    where timeless traditions meet breathtaking landscapes.
+                    Our mission is to introduce you to the enchanting kingdom of Bhutan,
+                    a land shrouded in mystique and nestled in the heart of the Himalayas.
+                    We are not just a travel agency; we are your gateway to an extraordinary adventure.
+                </p>
 
-    <p class="text-justify mt-5">
-        Founded by a group of passionate travelers who fell in love with the beauty and serenity of Bhutan,
-        Bhutan Ace Travel was born out of a desire to share the magic of this unique destination with the world.
-        Our team consists of seasoned explorers, each with a deep-rooted connection to Bhutan, and together,
-        we have crafted unforgettable experiences for our clients.
+                <h2 class="mt-3 text-center">Our Story</h2>
 
-    </p>
+                <p class="text-justify mt-5">
+                    Founded by a group of passionate travelers who fell in love with the beauty and serenity of Bhutan,
+                    Bhutan Ace Travel was born out of a desire to share the magic of this unique destination with the world.
+                    Our team consists of seasoned explorers, each with a deep-rooted connection to Bhutan, and together,
+                    we have crafted unforgettable experiences for our clients.
+
+                </p>
+
+            </div>
+            <div class="col">
+                <img src="{{ asset('assets/img/king.webp')}}" alt="" class="img-fluid">
+            </div>
+        </div>
+    </div>
 
     <h2 class="mt-3">Why Bhutan Ace Travel?</h2>
 
@@ -74,7 +85,6 @@
     <p class="text-justify">
         Experience Bhutan with Bhutan Ace Travel and let the adventure begin.
     </p>
-
 
 
 </div>

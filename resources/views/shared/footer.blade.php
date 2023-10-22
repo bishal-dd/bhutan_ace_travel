@@ -62,7 +62,7 @@
                                 <li><a href="#">Changlam Plaza, Thimphu</a></li>
                                 <li><a href="#"> Mobile: +975-17 83 08 18</a></li>
                                 <li><a href="https://api.whatsapp.com/send?phone=77201625"> <i class="fab fa-whatsapp"></i> Whatsapp: +975-77 20 16 25</a></li>
-                                <li><a href="#">info@acetravels023.bt</a></li>
+                                <li><a href="mailto:bhutanacetravel@gmail.com">bhutanacetravel@gmail.com</a></li>
                             </ul>
                         </div>
                     </div>

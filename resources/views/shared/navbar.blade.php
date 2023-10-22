@@ -8,8 +8,10 @@
                         <div class="col-lg-8">
                             <div class="header-info-left">
                                 <ul>
-                                    <li>info@acetravels023.bt</li>
-                                    <li>+975-17830818/17642134</li>
+                                    <li><a href="mailto:acetravels023@gmail.com">Ticketing: acetravels023@gmail.com</a></li>
+                                    <li><a href="https://api.whatsapp.com/send?phone=17830818" target="_blank">+975-17830818</a></li>
+                                    <li><a href="mailto:bhutanacetravel@gmail.com">Tours: bhutanacetravel@gmail.com</a></li>
+                                    <li><a href="https://api.whatsapp.com/send?phone=77201625" target="_blank">+975-77201625</a></li>
                                     <li> Changlam Plaza, Thimphu</li>
                                 </ul>
                             </div>
