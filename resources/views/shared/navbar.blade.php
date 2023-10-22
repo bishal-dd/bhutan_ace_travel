@@ -43,7 +43,19 @@
                                     <ul id="navigation">
                                         <li><a href="/">Home</a></li>
                                         <li><a href="/about">About US</a></li>
-                                        <li><a href="/travel_info">Travel Info</a></li>
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                                Travel Info
+                                            </a>
+                                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                              <a class="dropdown-item p-1" href="/booking">Booking Process</a>
+                                              <a class="dropdown-item p-1" href="/visa">Visa To Bhutan</a>
+                                              <a class="dropdown-item p-1" href="/sdf">Sustainable Development Fee</a>
+                                              <a class="dropdown-item p-1" href="/package">Daily Package</a>
+                                              <a class="dropdown-item p-1" href="/travel_tips">Travel Tips</a>
+                                              <a class="dropdown-item p-1" href="/terms">Terms &amp; Conditions</a>
+                                            </div>
+                                          </li>
                                         <li class="dropdown">
                                             <a href="#">Itineraries <i class="fas fa-chevron-down"></i></a>
                                             <ul class="submenu bg-light ">
@@ -97,7 +109,7 @@
                                                             Cycling Tours
                                                         </a>
                                                         <div class="dropdown-menu">
-                                                            <a href="/cycling_paro" class="p-1"></a>
+                                                            <a href="/cycling_paro" class="p-1">Cycling</a>
                                                             {{-- <a href="/cycling_punakha" class="p-1">Thimphu To Punakha</a> --}}
                                                         </div>
                                                     </div>
@@ -112,7 +124,6 @@
                                               <a class="dropdown-item p-1" href="/ticketing">Ace Travel Ticketing</a>
                                             </div>
                                         </li>
-                                        <li><a href="/booking">Booking Process</a></li>
                                         <li><a href="/contact">Contact Us</a></li>
                                     </ul>
                                 </nav>

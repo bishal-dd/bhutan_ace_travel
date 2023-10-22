@@ -30,7 +30,7 @@
                     <div class="support-location-img mb-50">
                         <img src="{{asset('assets/img/highland-festival.webp')}}" alt="">
                         <div class="support-img-cap">
-                            <span>Since 1992</span>
+                            {{-- <span>Since</span> --}}
                         </div>
                     </div>
                 </div>
@@ -175,7 +175,7 @@
                             <div class="blog-cap">
                                 <p> |   Traveling</p>
                                 <h3><a href="/biking_paro">Biking Tours For Thrilling Adventures</a></h3>
-                                <a href="/biking_tour" class="more-btn">Read more »</a>
+                                <a href="/biking_paro" class="more-btn">Read more »</a>
                             </div>
                         </div>
                         <div class="blog-date text-center">
@@ -193,7 +193,7 @@
                             <div class="blog-cap">
                                 <p> |   Traveling</p>
                                 <h3><a href="/cycling_paro">Cycling Tours For Serene Exploration</a></h3>
-                                <a href="/cycling_tour" class="more-btn">Read more »</a>
+                                <a href="/cycling_paro" class="more-btn">Read more »</a>
                             </div>
                         </div>
                         <div class="blog-date text-center">

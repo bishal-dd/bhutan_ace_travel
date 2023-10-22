@@ -89,9 +89,7 @@ Route::get('/cycling_punakha', function () {
 Route::get('/cycling_paro', function () {
     return view('packages/cycling_tour/cycling_paro');
 });
-Route::get('/travel_info', function () {
-    return view('travel_info');
-});
+
 
 Route::get('/booking', function () {
     return view('booking');
@@ -99,4 +97,28 @@ Route::get('/booking', function () {
 
 Route::get('/ticketing', function () {
     return view('ticketing');
+});
+
+Route::get('/travel_info', function () {
+    return view('travel_info/travel_info');
+});
+
+Route::get('/visa', function () {
+    return view('travel_info/visa');
+});
+
+Route::get('/sdf', function () {
+    return view('travel_info/sdf');
+});
+
+Route::get('/terms', function () {
+    return view('travel_info/terms');
+});
+
+Route::get('/travel_tips', function () {
+    return view('travel_info/travel_tips');
+});
+
+Route::get('/package', function () {
+    return view('travel_info/package');
 });
