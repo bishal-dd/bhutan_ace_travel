@@ -122,6 +122,7 @@
                                             </a>
                                             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                                               <a class="dropdown-item p-1" href="/ticketing">Ace Travel Ticketing</a>
+                                              <a class="dropdown-item p-1" href="/about_yatra">About</a>
                                             </div>
                                         </li>
                                         <li><a href="/contact">Contact Us</a></li>

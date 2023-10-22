@@ -21,10 +21,14 @@
 <div class="text-center p-5">
     <h2 class="mt-3">Ace Travel Ticketing</h2>
 
-    <p class="text-justify mt-5">
+    <div class="row mt-5">
+    <div class="col">
         <img src="{{asset('assets/img/plane.webp')}}" class="img-fluid" alt="Responsive Image">
-    </p>
-
+    </div>
+    <div class="col">
+        <img src="{{asset('assets/img/bhutan_air.webp')}}" class="img-fluid" alt="Responsive Image">
+    </div>
+    </div>
 
     <p class="text-justify mt-5">
         Ace Travel Ticketing, is a licensed international and domestic flight ticketing agency located in Thimphu. We specialize in confirming flight tickets for your preferred airlines, catering to worldwide destinations and trusted flight options. Our mission is to ensure your journey is comfortable, hassle-free, and filled with reliable travel choices.

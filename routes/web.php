@@ -21,6 +21,10 @@ Route::get('/about', function () {
     return view('about');
 });
 
+Route::get('/about_yatra', function () {
+    return view('about_yatra');
+});
+
 Route::get('/contact', function () {
     return view('contact');
 });
