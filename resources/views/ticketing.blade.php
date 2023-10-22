@@ -34,7 +34,7 @@
         <div class="row">
             <div class="col-md-8">
                 <p class="text-justify mt-5">
-                    Ace Travel Ticketing, is a licensed international and domestic flight ticketing agency located in Thimphu. We specialize in confirming flight tickets for your preferred airlines, catering to worldwide destinations and trusted flight options. Our mission is to ensure your journey is comfortable, hassle-free, and filled with reliable travel choices.
+                    Ace Travel Ticketing, is a licensed international and domestic flight ticketing agency located in Thimphu. <b>Established in 2011</b>. We specialize in confirming flight tickets for your preferred airlines, catering to worldwide destinations and trusted flight options. Our mission is to ensure your journey is comfortable, hassle-free, and filled with reliable travel choices.
                 </p>
             
                 <p class="text-justify mt-5">
