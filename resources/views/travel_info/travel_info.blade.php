@@ -5,7 +5,7 @@
 <!-- slider Area Start-->
 <div class="slider-area ">
     <!-- Mobile Menu -->
-    <div class="single-slider slider-height2 d-flex align-items-center" data-background="{{asset('assets/img/header-image.webp')}}">
+    <div class="single-slider slider-height2 d-flex align-items-center" data-background="{{asset('assets/img/header-image2.webp')}}">
         <div class="container">
             <div class="row">
                 <div class="col-xl-12">
