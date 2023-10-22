@@ -176,6 +176,22 @@
                         </div>
                     </aside>
                     <aside class="single_sidebar_widget newsletter_widget">
+                        <h4 class="widget_title">For Further Inquiries</h4>
+                            <p>
+                                <a href="mailto:bhutanacetravel@gmail.com" class=" rounded-0 w-100 text-dark"
+                                >
+                                <i class="ti-email"></i> Email:  bhutanacetravel@gmail.com
+                                 </a>
+                            </p>
+                            <p>
+                                <a href="https://api.whatsapp.com/send?phone=77201625" class=" rounded-0 w-100 text-dark"
+                                >
+                                <i class="fab fa-whatsapp"></i> Whatsapp:  +975-77 20 16 25
+                                </a>
+                            </p>
+                            
+                     </aside>
+                    <aside class="single_sidebar_widget newsletter_widget">
                         <h4 class="widget_title">Booking Process</h4>
                            <a href="/booking" class="button rounded-0 w-100 text-white btn_1 boxed-btn"
                                >
