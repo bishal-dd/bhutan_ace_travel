@@ -39,7 +39,7 @@
                         <!-- Section Tittle -->
                         <div class="section-tittle section-tittle2">
                             <span>About Our Company</span>
-                            <h2>We are Ace Travel <br>Your Travel Partner</h2>
+                            <h2>We are Ora Tours and Travel  <br>Your Travel Partner</h2>
                         </div>
                         <div class="support-caption">
                             <p>Our mission is to make your travel experiences unforgettable and hassle-free.Dedicated to enhancing your travel experiences and ensuring they are both unforgettable and hassle-free. With a passion for exploration and a commitment to customer satisfaction, we have been at the forefront of the travel industry for years.</p>

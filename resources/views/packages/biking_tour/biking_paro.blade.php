@@ -178,9 +178,9 @@
                     <aside class="single_sidebar_widget newsletter_widget">
                         <h4 class="widget_title">For Further Inquiries</h4>
                             <p>
-                                <a href="mailto:bhutanacetravel@gmail.com" class=" rounded-0 w-100 text-dark"
+                                <a href="mailto:bhutanoratravels@gmail.com" class=" rounded-0 w-100 text-dark"
                                 >
-                                <i class="ti-email"></i> Email:  bhutanacetravel@gmail.com
+                                <i class="ti-email"></i> Email:  bhutanoratravels@gmail.com
                                  </a>
                             </p>
                             <p>

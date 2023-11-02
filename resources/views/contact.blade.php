@@ -30,11 +30,11 @@
                 </a>
             </div>
             <div class="col-lg-3 offset-lg-2 rounded-circle shadow" style="background-color: #f2f2f2">
-                <a href="mailto:bhutanacetravel@gmail.com">
+                <a href="mailto:bhutanoratravels@gmail.com">
                 <div class="media contact-info p-4 mt-5">
                     <span class="contact-info__icon"><i class="ti-email" style="font-size: 60px; color: #45aef6"></i></span>
                     <div class="media-body">
-                        <h3>bhutanacetravel@gmail.com</h3>
+                        <h3>bhutanoratravels@gmail.com</h3>
                         <p>Send us your query anytime!</p>
                     </div>
                 </div>

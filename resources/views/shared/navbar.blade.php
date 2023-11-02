@@ -10,7 +10,7 @@
                                 <ul>
                                     <li><a href="mailto:acetravels023@gmail.com">Ticketing: acetravels023@gmail.com</a></li>
                                     <li><a href="https://api.whatsapp.com/send?phone=17830818" target="_blank">+975-17830818</a></li>
-                                    <li><a href="mailto:bhutanacetravel@gmail.com">Tours: bhutanacetravel@gmail.com</a></li>
+                                    <li><a href="mailto:bhutanoratravels@gmail.com">Tours: bhutanoratravels@gmail.com</a></li>
                                     <li><a href="https://api.whatsapp.com/send?phone=77201625" target="_blank">+975-77201625</a></li>
                                     <li> Changlam Plaza, Thimphu</li>
                                 </ul>
@@ -123,7 +123,7 @@
                                                 Companies 
                                             </a>
                                             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                              <a class="dropdown-item p-1" href="/ticketing">Ace Travel Ticketing</a>
+                                              <a class="dropdown-item p-1" href="/ticketing">Ora Tours and Travel Ticketing</a>
                                               <a class="dropdown-item p-1" href="/about_yatra">About</a>
                                             </div>
                                         </li>
