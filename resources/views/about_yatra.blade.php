@@ -22,10 +22,10 @@
     <div class="section-top-border text-right">
         <div class="row">
             <div class="col-md-8">
-                <h2 class="mt-3">About Bhutan Ace Travel</h2>
+                <h2 class="mt-3">About Bhutan Ora Tours and Travel</h2>
 
                 <p class="text-justify mt-5">
-                    AceTravel is dedicated to making travel simple. We specialize in a complete range of
+                    Ora Tours and Travel is dedicated to making travel simple. We specialize in a complete range of
                     travel-related services and adventure activities, from five-star to budget class. In
                     providing this full range of travel- and adventure-related activities, AceTravels continues
                     to promote responsible tourism, sustainable development of the country and

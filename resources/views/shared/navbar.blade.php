@@ -123,7 +123,7 @@
                                                 Companies 
                                             </a>
                                             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                              <a class="dropdown-item p-1" href="/ticketing">Ora Tours and Travel Ticketing</a>
+                                              <a class="dropdown-item p-1" href="/ticketing">Ace Ticketing</a>
                                               <a class="dropdown-item p-1" href="/about_yatra">About</a>
                                             </div>
                                         </li>

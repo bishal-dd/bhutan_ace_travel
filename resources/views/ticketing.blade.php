@@ -10,7 +10,7 @@
             <div class="row">
                 <div class="col-xl-12">
                     <div class="hero-cap text-center">
-                        <h2>Ace Travel Ticketing</h2>
+                        <h2>Ace Ticketing</h2>
                     </div>
                 </div>
             </div>
@@ -19,7 +19,7 @@
 </div>
 <!-- slider Area End-->
 <div class="text-center p-5">
-    <h2 class="mt-3">Ace Travel Ticketing</h2>
+    <h2 class="mt-3">Ace Ticketing</h2>
 
     <div class="row mt-5">
             <div class="col">
@@ -34,7 +34,7 @@
         <div class="row">
             <div class="col-md-8">
                 <p class="text-justify mt-5">
-                    Ace Travel Ticketing, is a licensed international and domestic flight ticketing agency located in Thimphu. <b>Established in 2011</b>. We specialize in confirming flight tickets for your preferred airlines, catering to worldwide destinations and trusted flight options. Our mission is to ensure your journey is comfortable, hassle-free, and filled with reliable travel choices.
+                    Ace Ticketing, is a licensed international and domestic flight ticketing agency located in Thimphu. <b>Established in 2011</b>. We specialize in confirming flight tickets for your preferred airlines, catering to worldwide destinations and trusted flight options. Our mission is to ensure your journey is comfortable, hassle-free, and filled with reliable travel choices.
                 </p>
             
                 <p class="text-justify mt-5">
@@ -87,9 +87,6 @@
             </div>
         </div>
     </div>
-
-
-
 </div>
 
 @include('shared.footer')
