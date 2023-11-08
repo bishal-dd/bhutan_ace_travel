@@ -21,7 +21,7 @@
                                 <ul class="header-social">
                                     <li><a href="#"><i class="fab fa-twitter"></i></a></li>
                                     <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                    <li><a href="https://www.facebook.com/lantee.rai"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a href="https://www.facebook.com/profile.php?id=61552831895925"><i class="fab fa-facebook-f"></i></a></li>
                                     <li> <a href="#"><i class="fab fa-pinterest-p"></i></a></li>
                                 </ul>
                             </div>

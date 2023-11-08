@@ -81,7 +81,7 @@
                     <!-- social -->
                     <div class="footer-social f-right">
                         <a href="#"><i class="fab fa-twitter"></i></a>
-                        <a href="https://www.facebook.com/lantee.rai"><i class="fab fa-facebook-f"></i></a>
+                        <a href="https://www.facebook.com/profile.php?id=61552831895925"><i class="fab fa-facebook-f"></i></a>
                         <a href="#"><i class="fab fa-behance"></i></a>
                         <a href="#"><i class="fas fa-globe"></i></a>
                     </div>
