@@ -16,7 +16,7 @@
         "APP_ENV": "production",
         "APP_DEBUG": "false",
         "APP_URL": "https://bhutan-ace-travel.vercel.app",
-        "ASSET_URL": "",
+        "ASSET_URL": "https://bhutan-ace-travel.vercel.app/public",
         "APP_KEY": "base64:IHHLWcP0UUFxw4OO3XbilvwSZYFOHPIn/oT2ROC3nUo=",
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
