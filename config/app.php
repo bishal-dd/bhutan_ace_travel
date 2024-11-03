@@ -55,8 +55,11 @@ return [
     |
     */
 
-   'url' => env('APP_URL', 'https://bhutan-ace-travel.vercel.app'),
-'asset_url' => env('ASSET_URL', 'https://bhutan-ace-travel.vercel.app/public/assets'),  /*
+    'url' => env('APP_URL', 'http://localhost'),
+
+    'asset_url' => env('ASSET_URL'),
+
+    /*
     |--------------------------------------------------------------------------
     | Application Timezone
     |--------------------------------------------------------------------------
