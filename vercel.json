@@ -8,34 +8,15 @@
     "routes": [
         { "src": "/(.*)", "dest": "/api/index.php" },
         {
-            "src": "/build/(.*)",
-            "dest": "/public/build/$1"
-        },
-        {
             "src": "/assets/(.*)",
             "dest": "/public/assets/$1"
-        },
-        {
-            "src": "/css/(.*)",
-            "dest": "/public/css/$1"
-        },
-        {
-            "src": "/js/(.*)",
-            "dest": "/public/js/$1"
-        },
-        {
-            "src": "/images/(.*)",
-            "dest": "/public/images/$1"
-        },
-        {
-            "src": "/favicon.ico",
-            "dest": "/public/favicon.ico"
         }
     ],
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "false",
         "APP_URL": "https://bhutan-ace-travel-kr07xd3rd-bishals-projects-ea5e7706.vercel.app",
+        "ASSET_URL": "",
         "APP_KEY": "base64:IHHLWcP0UUFxw4OO3XbilvwSZYFOHPIn/oT2ROC3nUo=",
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
