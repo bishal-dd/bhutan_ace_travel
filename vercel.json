@@ -15,7 +15,7 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "false",
-        "APP_URL": "https://bhutan-ace-travel-kr07xd3rd-bishals-projects-ea5e7706.vercel.app",
+        "APP_URL": "https://bhutan-ace-travel.vercel.app",
         "ASSET_URL": "",
         "APP_KEY": "base64:IHHLWcP0UUFxw4OO3XbilvwSZYFOHPIn/oT2ROC3nUo=",
         "APP_CONFIG_CACHE": "/tmp/config.php",
