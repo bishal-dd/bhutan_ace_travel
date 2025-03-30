@@ -8,10 +8,10 @@
                         <div class="col-lg-8">
                             <div class="header-info-left">
                                 <ul>
-                                    <li><a href="mailto:acetravels023@gmail.com">Ticketing: acetravels023@gmail.com</a></li>
-                                    <li><a href="https://api.whatsapp.com/send?phone=17830818" target="_blank">+975-17830818</a></li>
-                                    <li><a href="mailto:bhutanoratravels@gmail.com">Tours: bhutanoratravels@gmail.com</a></li>
-                                    <li><a href="https://api.whatsapp.com/send?phone=77201625" target="_blank">+975-77201625</a></li>
+                                    <li><a href="mailto:contact@lightwebx.com">Ticketing: contact@lightwebx.com</a></li>
+                                    <li><a href="https://api.whatsapp.com/send?phone=17830818" target="_blank">+975-17959259</a></li>
+                                    <li><a href="mailto:contact@lightwebx.com">Tours: contact@lightwebx.com</a></li>
+                                    <li><a href="https://api.whatsapp.com/send?phone=77201625" target="_blank">+975-17959259</a></li>
                                     <li> Changlam Plaza, Thimphu</li>
                                 </ul>
                             </div>
@@ -35,7 +35,7 @@
                         <!-- Logo -->
                         <div class="col-xl-2 col-lg-2 col-md-1">
                             <div class="logo">
-                                <a href="/"><img src="{{asset('assets/img/logo.webp')}}" alt="" width="200" height="50"></a>
+                                <a href="/"><img src="{{asset('assets/img/Lightwebx-logo.webp')}}" alt="" width="90" height="50"></a>
                             </div>
                         </div>
                         <div class="col-xl-10 col-lg-10 col-md-10">
